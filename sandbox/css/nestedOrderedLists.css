@@ -1,3 +1,7 @@
+/*
+Sólo funciona correctamente con listas con HTML, el intérprete de markdown no genera un código válido para más de dos niveles (básicamente omite elementos <ol>).
+*/
+
 ol {
 	counter-reset: item;
 }
