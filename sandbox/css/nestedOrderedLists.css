@@ -1,5 +1,12 @@
 /*
 Sólo funciona correctamente con listas con HTML, el intérprete de markdown no genera un código válido para más de dos niveles (básicamente omite elementos <ol>).
+
+Alimenta la vagancia con:
+
+<!-- importando estilos para listas anidadas -->
+<link rel="stylesheet" href="https://raw.githubusercontent.com/iagovar/blog/main/sandbox/css/nestedOrderedLists.css">
+
+
 */
 
 ol {
