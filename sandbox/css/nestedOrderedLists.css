@@ -9,6 +9,10 @@ Alimenta la vagancia con:
 
 */
 
+li {
+    margin-bottom: 0.3em;
+}
+
 ol {
     counter-reset: item;
 }
