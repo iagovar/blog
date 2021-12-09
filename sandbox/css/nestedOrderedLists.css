@@ -10,14 +10,18 @@ Alimenta la vagancia con:
 */
 
 ol {
-	counter-reset: item;
+    counter-reset: item;
 }
 
-li {
-	display: block;
+ol > li {
+    counter-increment: item;
 }
 
-li:before {
-	content: counters(item, ".") " ";
-	counter-increment: item;
+ol ol > li {
+    display: block;
+}
+
+ol ol > li:before {
+    content: counters(item, ".") ". ";
+    margin-left: -1em;
 }
