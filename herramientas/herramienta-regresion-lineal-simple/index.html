@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Regresión Lineal Simple</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
+  <script src="./script.js" defer></script>
+  <link rel="stylesheet" type="text/css" href="./estilos.css">
+</head>
+<body onload="calcularRegresion()">
+
+  <h1>Cálculo de Regresión Lineal Simple</h1>
+
+  <p>Introduzca los datos para dos variables:</p>
+
+  <label for="varIndependiente">Variable Independiente:</label><br>
+  <textarea id="varIndependiente" rows="2">3, 5, 7, 9, 11, 13, 15, 17, 19, 21</textarea><br>
+
+  <label for="varDependiente">Variable Dependiente:</label><br>
+  <textarea id="varDependiente" rows="2">6.2, 5, 8, 18.9, 13, 20, 25, 34.8, 36, 39</textarea><br>
+  <br>
+
+  <button onclick="calcularRegresion()">Calcular regresión</button>
+  <br><br>
+
+  <canvas id="miGrafico"></canvas>
+  <br>
+
+  <div class="recta-regresion">
+  <h3>Fórmula de la recta de regresión</h3>
+
+  <p id="formula"></p>
+
+  <p>La fórmula de una recta de regresión lineal simple es <b>y = mx + b</b>, donde <b>m</b> es la pendiente de la recta y <b>b</b> es la intersección con el eje <b>y</b>.</p>
+  
+  <p>La recta se ajusta de manera que minimice la suma de los cuadrados de las diferencias entre los puntos de datos y la recta. La pendiente indica la tasa de cambio de <b>y</b> con respecto a <b>x</b>, mientras que la intersección con el eje <b>y</b> indica el valor de <b>y</b> cuando <b>x</b> es igual a cero.</p>
+
+  <p>La fórmula completa se puede usar para calcular el valor de <b>y</b> para cualquier valor dado de <b>x</b>. Por ejemplo, si la pendiente de la recta es 2 y la intersección con el eje <b>y</b> es 3, la fórmula sería <b>y = 2x + 3</b>. Si quisiéramos calcular el valor de <b>y</b> para <b>x</b> = 5, simplemente reemplazaríamos <b>x</b> en la fórmula y obtendríamos <b>y = 2 * 5 + 3 = 13</b>.</p>
+
+  <p><a href="https://www.youtube.com/watch?v=ZkjP5RJLQF4">Este vídeo</a> del canal de Brandon Foltz es una buena introducción a la regresión lineal simple.</p>
+  </div>
+</body>
+<footer>
+  Diseñado para Mozilla Firefox <a href="https://iagovar.com">@iagovar</a>. 
+</footer>
+</html>
