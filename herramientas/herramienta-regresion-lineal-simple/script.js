@@ -1,9 +1,25 @@
+                        ///////////////////////
+                        // Función principal //
+                        ///////////////////////
+
 function calcularRegresion() {
-  // Tela de variables
+  /*  Esta función se ejecuta con un onload en el body y onclick en el botón
+      de calcular Regresión */
+
+  // Obtener la lista de observaciones de las variables in/dependiente
   const indepVarInput = document.getElementById("varIndependiente");
   const depVarInput = document.getElementById("varDependiente");
+
+  // Transformar listas de observaciones de texto a dos matrices
+  // dentro de un objeto
   const sequences = getSequences(indepVarInput.value, depVarInput.value);
+
+  // Obtener, dentro de un objeto, la pendiente y el punto de corte de la
+  // regresión, y un string con la fórmula de la recta
   const formula = regressionLine(sequences.indepVarSeq, sequences.depVarSeq);
+
+  // Obtener un punto de inicio y de final para poder dibujar la recta en el
+  // plano
   const regressionLinePoints = getRegressionLinePoints(
     formula.slope,
     formula.yIntercept,
@@ -11,10 +27,11 @@ function calcularRegresion() {
     sequences.depVarSeq
     );
 
-  // Escribiendo la formula en el front
+  // Escribiendo la formula (string) sobre #formula en el front
   setFormula(formula.formula);
 
-  // Dibujando los puntos y línea o9en el canvas
+  // Dibujando tanto las observaciones (puntos) y la recta de regresión en el
+  // canvas
   drawData(
     sequences.indepVarSeq,
     sequences.depVarSeq,
@@ -23,8 +40,9 @@ function calcularRegresion() {
     );
 }
 
-
-// Funciones de apoyo
+                        ////////////////////////
+                        // Funciones de apoyo //
+                        ////////////////////////
 
 function getSequences(indepVar, depVar) {
 
@@ -63,7 +81,7 @@ function regressionLine(xSeq, ySeq) {
 }
 
 function setFormula(text) {
-  // Obtener el elemento <p> con el ID "formula"
+  // Obtener el elemento #formula
   const elem = document.getElementById("formula");
 
   // Establecer el contenido del elemento <p> como la cadena de texto
@@ -73,25 +91,25 @@ function setFormula(text) {
 
 function getRegressionLinePoints(slope, yIntercept, xData, yData) {
 
-  // Queremos alargar la recta para que su punto inicial
-  // y final no coincida con el primer y último datapoint.
-  // Para ello calcularemos la distancia entre el valor 
-  // mínimo y máximo * 10% y aplicaremos este valor a los
-  // puntos mínimo y máximo
+  //    Queremos alargar la recta para que su punto inicial
+  //    y final no coincida con el primer y último datapoint.
+  //    Para ello calcularemos la distancia entre el valor 
+  //    mínimo y máximo * 10% y aplicaremos este valor a los
+  //    puntos mínimo y máximo
   const maxValue = Math.max(...xData, ...yData);
   const minValue = Math.min(...xData, ...yData);
   const distance = maxValue - minValue;
   const coeficiente = distance * 0.1;
 
-  // Calculamos el primer punto de la recta de regresión
-  // utilizando el valor mínimo de xData como el valor de x
-  // -Entero Para alargar la recta por motivos estéticos
+  //    Calculamos el primer punto de la recta de regresión
+  //    utilizando el valor mínimo de xData como el valor de x
+  //    -coeficiente Para alargar la recta por motivos estéticos
   const startX = Math.min(...xData) - coeficiente;
   const startY = slope * startX + yIntercept;
 
-  // Calculamos el último punto de la recta de regresión
-  // utilizando el valor máximo de xData como el valor de x
-  // +Entero Para alargar la recta por motivos estéticos
+  //    Calculamos el último punto de la recta de regresión
+  //    utilizando el valor máximo de xData como el valor de x
+  //    +coeficiente Para alargar la recta por motivos estéticos
   const endX = Math.max(...xData) + coeficiente;
   const endY = slope * endX + yIntercept;
 
