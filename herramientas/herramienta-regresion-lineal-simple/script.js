@@ -84,8 +84,7 @@ function setFormula(text) {
   // Obtener el elemento #formula
   const elem = document.getElementById("formula");
 
-  // Establecer el contenido del elemento <p> como la cadena de texto
-  // proporcionada
+  // Cambiando el contenido de #formula por y=mx+b
   elem.innerHTML = text;
 }
 
