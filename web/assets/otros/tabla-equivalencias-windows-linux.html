@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tabla equivalencias PowerShell - Linux</title>
+  <meta charset="utf-8">
+</head>
+<body>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-u2hq{background-color:#70AD47;border-color:inherit;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-cjtp{background-color:#ecf4ff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-4gje{background-color:#B4C6E7;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-tplx{background-color:#C9C9C9;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-af2u{background-color:#5B9BD5;border-color:inherit;color:#FFF;text-align:center;vertical-align:top}
+.tg .tg-4gz3{background-color:#FCE4D6;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-am0y{background-color:#ED7D31;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ijdo{background-color:#E2EFDA;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-4ofv{background-color:#F4B084;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-q303{background-color:#70AD47;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-81z4{background-color:#4472C4;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ycgy{background-color:#D9E1F2;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-m3cc{background-color:#FFE699;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-yj7i{border-color:inherit;color:#303336;text-align:left;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-ntu5{background-color:#C6E0B4;border-color:inherit;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="color:black"> </span></th>
+    <th class="tg-0pky"><span style="color:black"> </span></th>
+    <th class="tg-u2hq" colspan="3"><span style="color:white">PowerShell (En progreso)</span></th>
+    <th class="tg-af2u" colspan="3"><span style="color:white">Linux</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-am0y"><span style="color:white">Type</span></td>
+    <td class="tg-am0y"><span style="color:white">Description</span></td>
+    <td class="tg-q303"><span style="color:white">Command</span> </td>
+    <td class="tg-q303"><span style="color:white">Example</span></td>
+    <td class="tg-q303"><span style="color:white">Result</span></td>
+    <td class="tg-81z4"><span style="color:white">Command</span></td>
+    <td class="tg-81z4"><span style="color:white">Example</span></td>
+    <td class="tg-81z4"><span style="color:white">Result</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gje" rowspan="22"><span style="color:black">General</span></td>
+    <td class="tg-4gz3"><span style="color:black">Logoff</span></td>
+    <td class="tg-ijdo"><span style="color:black">shutdown</span></td>
+    <td class="tg-ijdo"><span style="color:black">shutdown -l</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">reboot</span></td>
+    <td class="tg-ycgy"><span style="color:black">reboot</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Restart</span></td>
+    <td class="tg-0pky"><span style="color:black">shutdown</span></td>
+    <td class="tg-0pky"><span style="color:black">shutdown -r</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">logout</span></td>
+    <td class="tg-0pky"><span style="color:black">logout</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Shutdown</span></td>
+    <td class="tg-ijdo"><span style="color:black">shutdown</span></td>
+    <td class="tg-ijdo"><span style="color:black">shutdown -s</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">poweroff</span></td>
+    <td class="tg-ycgy"><span style="color:black">poweroff</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Show user</span></td>
+    <td class="tg-0pky"><span style="color:black">echo %USERNAME%</span></td>
+    <td class="tg-0pky"><span style="color:black">echo %USERNAME%</span></td>
+    <td class="tg-0pky"><span style="color:black">user</span></td>
+    <td class="tg-0pky"><span style="color:black">echo</span></td>
+    <td class="tg-0pky"><span style="color:black">echo $USER</span></td>
+    <td class="tg-0pky"><span style="color:black">user</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Install application</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">apt-get</span><br><span style="color:black">yum</span></td>
+    <td class="tg-ycgy"><span style="color:black">sudo</span> <span style="color:black">apt-get install ${package}</span><br><span style="color:black">yum install ${package}</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Remove application</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">apt-get</span><br><span style="color:black">yum</span></td>
+    <td class="tg-0pky"><span style="color:black">apt-get remove ${package}</span><br><span style="color:black">yum remove ${package}</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Zip/unzip current folder</span></td>
+    <td class="tg-ijdo"><span style="color:black">zip</span><br><span style="color:black">unzip</span></td>
+    <td class="tg-ijdo"><span style="color:black">zip -r file.zip folder</span><br><span style="color:black">zip file.zip file</span><br><span style="color:black">unzip -l file.zip</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">unzip</span></td>
+    <td class="tg-ycgy"><span style="color:black">sudo</span> <span style="color:black">apt-get install zip unzip</span><br><span style="color:black">zip -r files.zip folder</span><br><span style="color:black">zip files.zip file1 file2 file3</span><br><span style="color:black">unzip /path/to/file.zip</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Connect</span> ssh</td>
+    <td class="tg-0pky"><span style="color:black">You need putty client</span></td>
+    <td class="tg-0pky"><span style="color:black">plink user@192.168.101.1 -P 33</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">ssh</span></td>
+    <td class="tg-0pky"><span style="color:black">ssh</span> <span style="color:black">user@192.168.1.1</span>  <span style="color:black">-p 33</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">List mounted devices</span></td>
+    <td class="tg-ijdo"><span style="color:black">net use</span></td>
+    <td class="tg-ijdo"><span style="color:black">net use</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">findmnt</span></td>
+    <td class="tg-ycgy"><span style="color:black">findmnt</span> <span style="color:black">-lo</span> source,target,fstype,label,options <span style="color:black">-t ext4</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Mount Remote</span></td>
+    <td class="tg-0pky"><span style="color:black">net use</span></td>
+    <td class="tg-0pky"><span style="color:black">net use \\Server\ShareFolder</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">mount</span></td>
+    <td class="tg-0pky"><span style="color:black">mount 192.168.1.1:/home /</span>mnt<span style="color:black">/</span>nfs<span style="color:black">/home</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Show network info</span></td>
+    <td class="tg-ijdo"><span style="color:black">ipconfig</span></td>
+    <td class="tg-ijdo"><span style="color:black">ipconfig /all</span></td>
+    <td class="tg-ijdo"><span style="color:black">Windows IP Configuration</span><br>   <span style="color:black">Host Name</span><br>   <span style="color:black">DNS Suffix Search List</span><br><span style="color:black">Ethernet adapter Local Area Connection:</span><br>   <span style="color:black">Physical Address</span><br>   <span style="color:black">IPv4 Address</span><br>   <span style="color:black">Subnet Mask</span></td>
+    <td class="tg-ycgy"><span style="color:black">ifconfig</span></td>
+    <td class="tg-ycgy"><span style="color:black">ifconfig</span></td>
+    <td class="tg-ycgy"><span style="color:black">eth0</span>      <span style="color:black">Link</span> encap:Ethernet  HWaddr<br>          inet addr<span style="color:black">:</span>  Bcast<span style="color:black">:</span>  <span style="color:black">Mask:</span><br>          <span style="color:black">inet6</span> addr<span style="color:black">:</span> <br><span style="color:black">eth1</span>      <span style="color:black">Link</span> encap:Local  Hwaddr</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Execute script</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">test.cmd</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">./</span></td>
+    <td class="tg-0pky"><span style="color:black">./test.sh</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">History</span></td>
+    <td class="tg-ijdo">F7</td>
+    <td class="tg-ijdo">F7</td>
+    <td class="tg-ijdo"><span style="color:black">0:</span> dir<br><span style="color:black">1: cd ..</span><br><span style="color:black">2:</span> quser</td>
+    <td class="tg-ycgy"><span style="color:black">history</span></td>
+    <td class="tg-ycgy"><span style="color:black">history</span></td>
+    <td class="tg-ycgy">  <span style="color:black">1</span>  <span style="color:black">ls</span><br>  <span style="color:black">2</span>  <span style="color:black">cd ..</span><br>  <span style="color:black">3</span>  pwd</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Go to previous command</span></td>
+    <td class="tg-0pky">â†‘ <span style="color:black">or</span> F8</td>
+    <td class="tg-0pky">F8 <span style="color:black">or</span> â†‘</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky">â†‘</td>
+    <td class="tg-0pky">â†‘</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Search for commands</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy">CTRL<span style="color:black">+</span>R</td>
+    <td class="tg-ycgy">CTRL<span style="color:black">+</span>R <span style="color:black">and type the command</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Clears screen</span></td>
+    <td class="tg-0pky"><span style="color:black">cls</span></td>
+    <td class="tg-0pky"><span style="color:black">cls</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">clear</span></td>
+    <td class="tg-0pky"><span style="color:black">clear</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Closes shell prompt</span></td>
+    <td class="tg-ijdo"><span style="color:black">exit</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">exit</span></td>
+    <td class="tg-ycgy"><span style="color:black">exit</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Displays or sets date</span></td>
+    <td class="tg-0pky"><span style="color:black">date</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">date</span></td>
+    <td class="tg-0pky"><span style="color:black">date</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Displays command help</span></td>
+    <td class="tg-ijdo"><span style="color:black">command /?</span></td>
+    <td class="tg-ijdo"><span style="color:black">dir</span> <span style="color:black">/?</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">info</span></td>
+    <td class="tg-ycgy"><span style="color:black">man command</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Displays command help 2</span></td>
+    <td class="tg-0pky"><span style="color:black">help command</span></td>
+    <td class="tg-0pky"><span style="color:black">help</span> dir</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">man</span></td>
+    <td class="tg-0pky"><span style="color:black">info command</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Autocompletion</span></td>
+    <td class="tg-ijdo">TAB</td>
+    <td class="tg-ijdo">TAB</td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy">TAB</td>
+    <td class="tg-ycgy">TAB</td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Uptime and logged user</span></td>
+    <td class="tg-0pky"><span style="color:black">quser</span></td>
+    <td class="tg-0pky"><span style="color:black">C:\Users\user\Desktop&gt;quser</span></td>
+    <td class="tg-0pky"><span style="color:black">USERNAME;SESSIONNAME;ID;</span><br><span style="color:black">STATE;IDLE;TIME;LOGON;TIME</span><br><span style="color:black">&gt;user;console;1;Active;none;</span><br><span style="color:black">4/5/2016;8:48 AM</span></td>
+    <td class="tg-0pky"><span style="color:black">uptime</span></td>
+    <td class="tg-0pky"><span style="color:black">uptime</span></td>
+    <td class="tg-0pky"><span style="color:black">06:18:56 up 75 days, 17:31,</span>  <span style="color:black">1 user,</span>  <span style="color:black">load average: 0.00, 0.00, 0.00</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"><span style="color:black">Files &amp;</span><br><span style="color:black">Folders</span></td>
+    <td class="tg-4gz3"><span style="color:black">Show current folder</span></td>
+    <td class="tg-ijdo"><span style="color:black">cd</span></td>
+    <td class="tg-ijdo"><span style="color:black">cd</span></td>
+    <td class="tg-ijdo"><span style="color:black">C:\Users\user</span></td>
+    <td class="tg-ycgy"><span style="color:black">pwd</span></td>
+    <td class="tg-ycgy"><span style="color:black">pwd</span></td>
+    <td class="tg-ycgy"><span style="color:black">/home/user</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Show current folder 2</span></td>
+    <td class="tg-0pky"><span style="color:black">chdir</span></td>
+    <td class="tg-0pky"><span style="color:black">chdir</span></td>
+    <td class="tg-0pky"><span style="color:black">C:\Users\user</span></td>
+    <td class="tg-0pky"><span style="color:black">echo</span></td>
+    <td class="tg-yj7i"><span style="color:#303336">echo $PWD</span></td>
+    <td class="tg-0pky"><span style="color:black">/home/user</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Create file</span></td>
+    <td class="tg-ijdo"><span style="color:black">copy . file1.txt</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">touch</span></td>
+    <td class="tg-ycgy"><span style="color:black">touch file.txt</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Create file</span></td>
+    <td class="tg-0pky"><span style="color:black">echo. 2&gt;file2.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">cat</span></td>
+    <td class="tg-0pky"><span style="color:black">cat &gt; myfile.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Renames a file</span></td>
+    <td class="tg-ijdo"><span style="color:black">ren</span></td>
+    <td class="tg-ijdo"><span style="color:black">ren</span> <span style="color:black">file1.txt file2.txt</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">mv</span></td>
+    <td class="tg-ycgy"><span style="color:black">mv tfileold.txt filenew.txt</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Copies files</span></td>
+    <td class="tg-0pky"><span style="color:black">copy</span></td>
+    <td class="tg-0pky"><span style="color:black">copy file1.txt C:/foldercopy</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">cp</span></td>
+    <td class="tg-0pky"><span style="color:black">cp</span> <span style="color:black">file.txt /home/</span>foldercopy</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Moves files</span></td>
+    <td class="tg-ijdo"><span style="color:black">move</span></td>
+    <td class="tg-ijdo"><span style="color:black">move file1.txt C:/newfolder</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">mv</span></td>
+    <td class="tg-ycgy"><span style="color:black">mv file.txt /home/</span>newfolder</td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Lists files</span></td>
+    <td class="tg-0pky"><span style="color:black">dir</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">ls</span></td>
+    <td class="tg-0pky"><span style="color:black">ls</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Collect file names</span></td>
+    <td class="tg-ijdo"><span style="color:black">dir</span></td>
+    <td class="tg-ijdo"><span style="color:black">dir</span> <span style="color:black">"C:\" &gt;FilesC.txt /b /o</span></td>
+    <td class="tg-ijdo"><span style="color:black">file1</span><br><span style="color:black">file2</span></td>
+    <td class="tg-ycgy"><span style="color:black">find</span></td>
+    <td class="tg-ycgy"><span style="color:black">find /home -name '*'</span></td>
+    <td class="tg-ycgy"><span style="color:black">/home/file1</span><br><span style="color:black">/home/file2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Deletes files</span></td>
+    <td class="tg-0pky"><span style="color:black">del</span></td>
+    <td class="tg-0pky"><span style="color:black">del deleteme.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">rm</span></td>
+    <td class="tg-0pky"><span style="color:black">rm</span> <span style="color:black">deleteme.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Deletes folder</span></td>
+    <td class="tg-ijdo"><span style="color:black">rmdir</span></td>
+    <td class="tg-ijdo"><span style="color:black">rmdir</span> <span style="color:black">/S</span> deleteme</td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">rm</span> <span style="color:black">-r</span></td>
+    <td class="tg-ycgy"><span style="color:black">rm</span> <span style="color:black">-r</span> deleteme</td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">"Echoes" output to the screen</span></td>
+    <td class="tg-0pky"><span style="color:black">echo</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">echo</span></td>
+    <td class="tg-0pky"><span style="color:black">echo this message</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Delete file content</span></td>
+    <td class="tg-ijdo"><span style="color:black">type</span><br><span style="color:black">break</span></td>
+    <td class="tg-ijdo"><span style="color:black">type</span> nul <span style="color:black">&gt; file.txt</span><br><span style="color:black">break&gt;file.txt</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">cat</span></td>
+    <td class="tg-ycgy"><span style="color:black">&gt; file.txt</span><br><span style="color:black">cat /dev/null &gt; file.txt</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Compares the contents of files</span></td>
+    <td class="tg-0pky"><span style="color:black">fc</span></td>
+    <td class="tg-0pky"><span style="color:black">fc file1.txt</span>  <span style="color:black">file2.txt</span></td>
+    <td class="tg-0pky"><span style="color:black">Comparing files file1.txt and file2.txt</span><br><span style="color:black">***** file1.txt</span><br><span style="color:black">1</span><br><span style="color:black">***** file2.txt</span><br><span style="color:black">2</span><br><span style="color:black">*****</span></td>
+    <td class="tg-0pky"><span style="color:black">diff</span></td>
+    <td class="tg-0pky"><span style="color:black">diff file1.txt file2.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Finds a string of text in a file</span></td>
+    <td class="tg-ijdo"><span style="color:black">find</span></td>
+    <td class="tg-ijdo"><span style="color:black">find "test" 123.txt</span></td>
+    <td class="tg-ijdo"><span style="color:black">---------- 123.TXT</span><br><span style="color:black">test</span></td>
+    <td class="tg-ycgy"><span style="color:black">grep</span></td>
+    <td class="tg-ycgy"><span style="color:black">grep test file1.txt</span></td>
+    <td class="tg-ycgy"><span style="color:black">test line</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Displays help</span></td>
+    <td class="tg-0pky"><span style="color:black">command /?</span></td>
+    <td class="tg-0pky"><span style="color:black">dir</span> <span style="color:black">/?</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">info</span></td>
+    <td class="tg-0pky"><span style="color:black">man command</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Displays help 2</span></td>
+    <td class="tg-ijdo"><span style="color:black">help command</span></td>
+    <td class="tg-ijdo"><span style="color:black">help</span> dir</td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">man</span></td>
+    <td class="tg-ycgy"><span style="color:black">info command</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Creates a folder</span></td>
+    <td class="tg-0pky"><span style="color:black">mkdir</span></td>
+    <td class="tg-0pky"><span style="color:black">mkdir</span> newfolder</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">mkdir</span></td>
+    <td class="tg-0pky"><span style="color:black">mkdir</span> <span style="color:black">directory</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">View file content</span></td>
+    <td class="tg-ijdo"><span style="color:black">more</span></td>
+    <td class="tg-ijdo"><span style="color:black">more file1.txt</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">less</span></td>
+    <td class="tg-ycgy"><span style="color:black">less file1.txt</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">View file content 2</span></td>
+    <td class="tg-0pky"><span style="color:black">type</span></td>
+    <td class="tg-0pky"><span style="color:black">type file1.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">tail</span></td>
+    <td class="tg-0pky"><span style="color:black">tail -n 15 file1.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-ijdo">View file content 3</td>
+    <td class="tg-ijdo"><span style="color:black"> cat</span></td>
+    <td class="tg-ijdo"><span style="color:black"> cat file.txt</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-cjtp">cat</td>
+    <td class="tg-cjtp">cat file.txt</td>
+    <td class="tg-cjtp"></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-c6of"><span style="color:black">Edit file</span></td>
+    <td class="tg-c6of"><span style="color:black">edit</span></td>
+    <td class="tg-c6of"><span style="color:black">edit</span>  <span style="color:black">file1.txt</span></td>
+    <td class="tg-c6of"><span style="color:black"> </span></td>
+    <td class="tg-c6of"><span style="color:black">vi</span><br>nano<br>gedit</td>
+    <td class="tg-c6of"><span style="color:black">vi file.txt</span><br>nano  <span style="color:black">file.txt</span><br>gedit  <span style="color:black">file.txt</span></td>
+    <td class="tg-c6of"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Edit file 2</span></td>
+    <td class="tg-ijdo">echo</td>
+    <td class="tg-ijdo">echo mensaje &gt; mifichero.txt</td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy">echo</td>
+    <td class="tg-ycgy"><span style="color:black"> echo mensaje &gt; mifichero.txt</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Changes directories with a specified path (absolute path)</span></td>
+    <td class="tg-0pky"><span style="color:black">cd</span></td>
+    <td class="tg-0pky"><span style="color:black">cd C:/</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">cd</span></td>
+    <td class="tg-0pky"><span style="color:black">cd /directory/directory</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Go one folder</span></td>
+    <td class="tg-ijdo"><span style="color:black">cd</span></td>
+    <td class="tg-ijdo"><span style="color:black">cd ..</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">cd</span></td>
+    <td class="tg-ycgy"><span style="color:black">cd ..</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Search for a file</span></td>
+    <td class="tg-0pky"><span style="color:black">dir</span></td>
+    <td class="tg-0pky"><span style="color:black">dir</span> <span style="color:black">/s *test*</span></td>
+    <td class="tg-0pky"><span style="color:black">07/31/2010</span>  <span style="color:black">02:30 AM</span>               <span style="color:black">301 test.png</span><br>               <span style="color:black">1 File(s)</span>            <span style="color:black">301 bytes</span></td>
+    <td class="tg-0pky"><span style="color:black">find</span></td>
+    <td class="tg-0pky"><span style="color:black">find / -name '*test*'</span></td>
+    <td class="tg-0pky"><span style="color:black">/home/test.txt</span><br><span style="color:black">/home/file2.png</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Search for text files</span></td>
+    <td class="tg-ijdo"><span style="color:black">dir</span></td>
+    <td class="tg-ijdo"><span style="color:black">dir</span> <span style="color:black">/b/s *.txt</span> </td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">find</span></td>
+    <td class="tg-ycgy"><span style="color:black">find / -name '*.txt'</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Change files extension to lower</span></td>
+    <td class="tg-0pky"><span style="color:black">ren</span></td>
+    <td class="tg-0pky"><span style="color:black">ren</span> <span style="color:black">*.TXT *.txt</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">mv</span></td>
+    <td class="tg-0pky"> <span style="color:black">for</span> i <span style="color:black">in $( ls *.TXT ); do echo $</span>i<span style="color:black">; mv $</span>i  <span style="color:black">${</span>i<span style="color:black">%%.TXT}.txt; done</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Check files permissions</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">ls</span></td>
+    <td class="tg-ycgy"><span style="color:black">ls -l /home/user</span></td>
+    <td class="tg-ycgy"><span style="color:black">"-</span>rwxr<span style="color:black">-</span>xr<span style="color:black">-x 1 root</span> root  <span style="color:black">53 Mar 23</span>  <span style="color:black">2015 /home/user"</span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Change Permissions</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">chmod</span></td>
+    <td class="tg-0pky"><span style="color:black">chmod</span> <span style="color:black">755 file</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-4gz3"><span style="color:black">Changing ownership</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">chown</span></td>
+    <td class="tg-ycgy"><span style="color:black">chown</span> <span style="color:black">user file</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-m3cc"></td>
+    <td class="tg-0pky"><span style="color:black">Changing group ownership</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">chgrp</span></td>
+    <td class="tg-0pky"><span style="color:black">chgrp</span> <span style="color:black">group file</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-ntu5" rowspan="5"><span style="color:black">Other</span></td>
+    <td class="tg-4gz3"><span style="color:black">Displays the date</span></td>
+    <td class="tg-ijdo"><span style="color:black">date</span></td>
+    <td class="tg-ijdo"><span style="color:black">date /T</span></td>
+    <td class="tg-ijdo"><span style="color:black">Wed 07/05/2017</span></td>
+    <td class="tg-ycgy"><span style="color:black">date</span></td>
+    <td class="tg-ycgy"><span style="color:black">date '+%d %W %Y'</span><br><span style="color:black">date '+%D'</span></td>
+    <td class="tg-ycgy"><span style="color:black">05 27 2017</span><br><span style="color:black">05/27/2017</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Displays the time</span></td>
+    <td class="tg-0pky"><span style="color:black">time</span></td>
+    <td class="tg-0pky"><span style="color:black">time /T</span></td>
+    <td class="tg-0pky"><span style="color:black">1:27 PM</span></td>
+    <td class="tg-0pky"><span style="color:black">date</span></td>
+    <td class="tg-0pky"><span style="color:black">date '+%X'</span></td>
+    <td class="tg-0pky"><span style="color:black">12:18:22 PM</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Shows amount of RAM in use</span></td>
+    <td class="tg-ijdo"><span style="color:black">wmic</span></td>
+    <td class="tg-ijdo"><span style="color:black">wmic OS get</span> FreePhysicalMemory <span style="color:black">/Value</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">free</span></td>
+    <td class="tg-ycgy"><span style="color:black">free</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Show disk space</span></td>
+    <td class="tg-0pky"><span style="color:black">wmic</span></td>
+    <td class="tg-0pky"><span style="color:black">wmic</span> logicaldisk <span style="color:black">get</span> size,freespace,caption</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">dh</span></td>
+    <td class="tg-0pky"><span style="color:black">dh -f</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Show processes</span></td>
+    <td class="tg-ijdo"><span style="color:black">tasklist</span></td>
+    <td class="tg-ijdo"><span style="color:black">tasklist</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">top</span></td>
+    <td class="tg-ycgy"><span style="color:black">top</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4ofv" rowspan="5"><span style="color:black">Services</span></td>
+    <td class="tg-0pky"><span style="color:black">Stop execution</span></td>
+    <td class="tg-0pky">CTRL<span style="color:black">+</span>C</td>
+    <td class="tg-0pky">CTRL<span style="color:black">+</span>C</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky">CTRL<span style="color:black">+</span>C</td>
+    <td class="tg-0pky">CTRL<span style="color:black">+</span>C</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Start service</span></td>
+    <td class="tg-ijdo"><span style="color:black">net</span></td>
+    <td class="tg-ijdo"><span style="color:black">net start [</span>serviceName<span style="color:black">]</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">service</span></td>
+    <td class="tg-ycgy"><span style="color:black">sudo</span> <span style="color:black">service [</span>serviceName<span style="color:black">] start</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Stop service</span></td>
+    <td class="tg-0pky"><span style="color:black">net</span></td>
+    <td class="tg-0pky"><span style="color:black">net stop [</span>serviceName<span style="color:black">]</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">service</span></td>
+    <td class="tg-0pky"><span style="color:black">sudo</span> <span style="color:black">service [</span>serviceName<span style="color:black">] stop</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Start service 2</span></td>
+    <td class="tg-ijdo"><span style="color:black">sc</span></td>
+    <td class="tg-ijdo"><span style="color:black">sc</span> <span style="color:black">start [</span>serviceName<span style="color:black">]</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">systemctl</span></td>
+    <td class="tg-ycgy"><span style="color:black">sudo</span> systemctl <span style="color:black">start [</span>serviceName<span style="color:black">]</span></td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Stop service 2</span></td>
+    <td class="tg-0pky"><span style="color:black">sc</span></td>
+    <td class="tg-0pky"><span style="color:black">sc</span> <span style="color:black">stop [</span>serviceName<span style="color:black">]</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">systemctl</span></td>
+    <td class="tg-0pky"><span style="color:black">sudo</span> systemctl <span style="color:black">stop [</span>serviceName<span style="color:black">]</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-tplx" rowspan="5"><span style="color:black">Variables</span></td>
+    <td class="tg-4gz3"><span style="color:black">Display all variables</span></td>
+    <td class="tg-ijdo"><span style="color:black">set</span></td>
+    <td class="tg-ijdo"><span style="color:black">set</span></td>
+    <td class="tg-ijdo"><span style="color:black">USERNAME=user</span><br><span style="color:black">USERPROFILE=C:\Users\user</span><br>windir<span style="color:black">=C:\Windows</span></td>
+    <td class="tg-ycgy"><span style="color:black">printenv</span></td>
+    <td class="tg-ycgy"><span style="color:black">printenv</span></td>
+    <td class="tg-ycgy"><span style="color:black">HOME=/home/user</span><br><span style="color:black">LOGNAME=user</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Display variable</span></td>
+    <td class="tg-0pky"><span style="color:black">echo</span></td>
+    <td class="tg-0pky"><span style="color:black">echo %USERNAME%</span></td>
+    <td class="tg-0pky"><span style="color:black">user</span></td>
+    <td class="tg-0pky"><span style="color:black">echo</span></td>
+    <td class="tg-0pky"><span style="color:black">echo $HOME</span></td>
+    <td class="tg-0pky"><span style="color:black">/home/user</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Display variable 2</span></td>
+    <td class="tg-ijdo"><span style="color:black">set</span></td>
+    <td class="tg-ijdo"><span style="color:black">set USERNAME</span></td>
+    <td class="tg-ijdo"><span style="color:black">USERNAME=user</span></td>
+    <td class="tg-ycgy"><span style="color:black">printenv</span></td>
+    <td class="tg-ycgy"><span style="color:black">printenv</span> <span style="color:black">| grep</span></td>
+    <td class="tg-ycgy"><span style="color:black">HOME=/home/user</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="color:black">Set variable</span></td>
+    <td class="tg-0pky"><span style="color:black">set</span></td>
+    <td class="tg-0pky"><span style="color:black">set MYVAR=VALUE</span></td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+    <td class="tg-0pky"><span style="color:black">export</span></td>
+    <td class="tg-0pky"><span style="color:black">export MYVAR=/path/to/</span>var</td>
+    <td class="tg-0pky"><span style="color:black"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-4gz3"><span style="color:black">Set variable permanent</span></td>
+    <td class="tg-ijdo"><span style="color:black">setx</span></td>
+    <td class="tg-ijdo"><span style="color:black">setx</span> <span style="color:black">MYVAR VALUE</span></td>
+    <td class="tg-ijdo"><span style="color:black"> </span></td>
+    <td class="tg-ycgy"><span style="color:black">change profile</span></td>
+    <td class="tg-ycgy"><span style="color:black">vi ~/.</span>bash_proflle<br><span style="color:black">export MYVAR=/path/to/</span>var</td>
+    <td class="tg-ycgy"><span style="color:black"> </span></td>
+  </tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono');
+
+:root {
+    --max-widh:  992px; /* Uno de los breakpoints de bootstrap */
+    --color-main-blue:  #1840D0;
+}
+
+* {
+    /*
+    border: 1px dotted red;
+    */
+}
+
+#data-analyst,
+.data-analyst,
+a[href*='#data-analyst'] {
+    display: none !important;
+}
+
+::selection {
+    background: var(--color-main-blue);
+    color: white;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto Mono', monospace;
+}
+
+pre,
+pre code {
+    width: 100%;
+}
+
+code {
+    background-color: whitesmoke;
+    color: var(--color-main-blue);
+    padding: 0.5em 0.3em;
+    display: inline-block;
+}
+
+th {border-bottom: 1px solid var(--color-main-blue);}
+td, th {padding: 0.3em;}
+tr:nth-child(even) {background-color: #f2f2f2;}
+
+blockquote {
+    border-left: 4px solid var(--color-main-blue);
+    padding-left: 1em;
+    font-size: 0.9em;
+}
+
+blockquote::before {
+    content: '❝';
+    position: relative;
+    font-size: 30vh;
+    color: var(--color-main-blue);
+    opacity: 0.1;
+    display: block;
+    height: 0;
+    z-index: -1;
+    top: -60px;
+}
+
+hr {
+    border: 1px solid var(--color-main-blue);
+    width: 100%;
+}
+
+.blue {
+    background: var(--color-main-blue);
+    color: white;
+}
+
+.hamburger {
+    display: none;
+}
+
+.nav-header {
+    position: sticky;
+    top: 0;
+    max-width: var(--max-widh);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+    background: white;
+    z-index: 999;
+    box-shadow: 0 5px 10px -10px rgba(0,0,0,0.5);
+}
+
+.nav-header .menu {
+    width: 100%;
+}
+
+.nav-header nav {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav-header nav a {
+    display: inline-block;
+    color: #252525;
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.nav-header nav a:hover,
+.nav-header nav a:visited {
+    color: #252525;
+}
+
+.nav-header a[href~="#contact"] {
+    outline-style: solid;
+    outline-color: var(--color-main-blue);
+    outline-width: 1px;
+    outline-offset: 0.5em;
+}
+
+.show-scroll {
+    width: 100%;
+    text-align: center;
+    color: var(--color-main-blue);
+}
+
+.main-container {
+    max-width: var(--max-widh);
+    margin: auto;
+}
+
+.main-container > div,
+.main-container > section {
+    display: flex;
+    flex-direction: column;
+    min-height: 90vh;
+    justify-content: center;
+    margin-bottom: 10vh;
+}
+
+.main-container article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-container .section-title {
+    place-self: center;
+    color: #252525;
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    word-break: break-word;
+}
+
+#content img,
+#content video,
+#content iframe {
+    max-width: 100%;
+}
+
+#content ol,
+#content ul {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+#post-meta {
+    min-height: unset;
+    display: flex;
+    gap: 1em;
+}
+
+#about-me {justify-content: space-around;}
+
+
+#about-me .name {
+    color: #252525;
+    text-align: center;
+    leading-trim: both;
+    text-edge: cap;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+#about-me article > :not(.name) {
+    width: fit-content;
+    text-align: center;
+    margin: 1em 0;
+}
+
+#portfolio > .description {
+    position: relative;
+    top: -3em;
+    text-align: center;
+}
+
+#portfolio article {
+    flex-direction: row;
+    gap: 0.5em;
+    align-items: flex-start;
+}
+#portfolio .website {width: 50%;}
+#portfolio .screenshot {
+    display: flex;
+    gap: 0.5em;
+    justify-content: flex-end;
+}
+#portfolio .images {min-width: 45%;}
+#portfolio .screenshot img {
+    width: 100%;
+    max-height: 20vh;
+    object-position: top;
+    object-fit: cover;
+}
+
+#tools .technology,
+#contact .technology {margin-bottom: 0.5em;}
+
+#tools .description,
+#contact .description {
+    margin-bottom: 2em;
+    margin-top: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    width: 100%;
+    padding: 30px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 5vw;
+    background: var(--color-main-blue);
+    color: white;
+}
+
+.footer a,
+.footer a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.show-more {
+    padding: 0.5em;
+    z-index: 1;
+    position: relative;
+    border-bottom: 1px solid var(--color-main-blue);
+    cursor: pointer;
+    background-color: rgb(255, 255, 255, 0.8);
+    outline-style: solid;
+    outline-color: rgb(255, 255, 255, 0.8);
+    outline-width: 1em;
+    text-align: center;
+}
+
+.list-category .category-name {
+    display: flex;
+    gap: 0.3em;
+}
+
+.list-category .folder {
+    display: block;
+    width: 1.5em;
+    position: relative;
+}
+
+.list-articles {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+    .nav-header {
+        padding: 0;
+        width: fit-content;
+        position: unset;
+        min-height: 4em;
+    }
+    .nav-header .hamburger {
+        display: block;
+        position: absolute;
+        right: 1em;
+        top: 1em;
+        font-size: 1.5em;
+    }
+    .nav-header .menu {display: none;}
+
+    .nav-header nav {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: column;
+        padding-top: 4em;
+        padding-bottom: 2em;
+        gap: 2em;
+        background-color: var(--color-main-blue);
+        color: white;
+        width: 100vw;
+    }
+
+    .nav-header nav a,
+    .nav-header nav a:visited {
+        color: white;
+    }
+    
+    #post-meta,
+    #about-me,
+    #portfolio,
+    #tools,
+    #contact,
+    #blog-feed,
+    #articles,
+    #content {padding: 0 1em;}
+
+    #about-me .name,
+    .main-container .section-title,
+    h1 {
+        font-size: 44px;
+    }
+
+    #portfolio article {flex-direction: column;}
+    #portfolio .website {width: 100%;}
+}

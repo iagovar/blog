@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ meta.description|striptags }}">
+    <meta name="author" content="{{ config.author }}">
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ theme_url }}/img/favicon.ico" type="image/x-icon">
+
+    <!-- Custom CSS & JS -->
+    <link href="{{ theme_url }}/css/styles.css" rel="stylesheet">
+    <script src="{{ theme_url }}/js/scripts.js"></script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+ 
+        ym(56129947, "init", {
+             clickmap:true,
+             trackLinks:true,
+             accurateTrackBounce:true
+        });
+     </script>
+     <noscript><div><img src="https://mc.yandex.ru/watch/56129947" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+     <!-- /Yandex.Metrika counter -->
+
+    <title>{{ site_title }}</title>
+</head>
+<body onload="main()">
+    {% include 'header-links.twig' %}
+    <div class="main-container">
+        <section id="about-me">
+            <article>
+                <div class="name">Iago Varela</div>
+                <div class="subheader blue">web developer - data analyst - sociologist</div>
+                <div class="description">
+                    <p>
+                        I am a web developer, freelancing from Spain.
+                    </p>
+                    <p>
+                        I'm in love with simple architecture, using plain HTML, CSS, JS and SQLite
+                    </p>
+                </div>
+                <div class="description sociologist">
+                    I'm a sociologist by training too, interested in complexity, housing, and many other topics.
+                    <p><a href="./articles" class="blue">Check my articles.</a></p>
+                </div>
+            </article>
+            <div class="show-scroll">v scroll down v</div>
+        </section>
+        <section id="portfolio">
+            <h1 id="web-developer" class="section-title">Web Developer</h1>
+            <div class="description web-developer">Some projects I've been involved in:</div>
+            <article>
+                <div class="website" data-show-more="500">
+                    <div class="screenshot">
+                        <div class="text">
+                            <span class="blue">Come to Coruna</span>
+                            <p>
+                            Stack: NodeJS w/ Puppeteer, Axios, Cheerio, Handlebars, SQLite.
+                            <br><br>
+                            OpenAI API, Azure Image Recognition, Apify.
+                            <br><br>
+                            PHP w/ PicoCMS.
+                            </p>
+                            <hr>
+                            <p>
+                            Website aimed at foreigners coming to A Coruña. It showcases some informational info, a calendar of events, and services aimed at this demographic.
+                            <br><br>
+                            What's interesting about this site, is that it scrapes events from plenty of sites using Puppeteer, handles the result with SQLite and Handlebars, and uploads the calendar to a static site.
+                            <br><br>
+                            But some events are only published in Instagram, and that poses many challenges.
+                            <br><br>
+                            So I decided to download the posts from instagram accounts, push the post image through image recognition / OCR (Azure API), then use a ChatGPT API with Function Calling to retrieve how many events there are in a given post, and its critical info (dates, title, etc).
+                            <br><br>
+                            I wouldn't say it's flawless, but I managed to get a 80% solution for very little money.
+                            <br><br>
+                            I'm quite happy with my Function Calling JSON definition, it works pretty well despite LLMs not being deterministic.
+                            </p>
+                            <p>
+                                <a class="blue" href="https://github.com/iagovar/cometocoruna">Github repo</a> - <a class="blue" href="https://cometocoruna.com">Link to site</a>
+                            </p>
+                        </div>
+                        <div class="images">
+                            <a href="https://cometocoruna.com" target="_blank"><img src="./assets/portfolio/come-to-coruna/index.jpg"></a>
+                            <a href="https://cometocoruna.com/events" target="_blank"><img src="./assets/portfolio/come-to-coruna/events.jpg"></a>
+                            <a href="https://cometocoruna.com/finding-home" target="_blank"><img src="./assets/portfolio/come-to-coruna/finding-home.jpg"></a>                            
+                        </div>
+                    </div>
+                </div>
+                <div class="website" data-show-more="500">
+                    <div class="screenshot">
+                        <div class="text">
+                            <span class="blue">App Il Giusto</span>
+                            <p>Stack: HTML, CSS, Vanilla JS.</p>
+                            <hr>
+                            <p>
+                            In this project, I've got ~ 1 week to implement a Figma design into working templates. About three months to implement other complex logic.
+                            <br><br>
+                            I had no time so I jumped in what I already know: Vanilla CSS/Javascript.
+                            <br><br>
+                            I made: Components HTML, CSS and JS. Templates for every screen. Some complex/heavy logic, like a meal compositor with several screens, and a training page with moving cards, timers, etc.
+                            <br><br>
+                            This was a team a four people total.
+                            </p>
+                            <p>
+                                <a class="blue" href="https://www.appilgiusto.com/">Link to site</a> <hr>Code in private repo of website owners
+                            </p>
+
+                        </div>
+                        <div class="images">
+                            <a href="./assets/portfolio/il-giusto/components.png" target="_blank"><img src="./assets/portfolio/il-giusto/components-small.png"></a>
+                            <a href="./assets/portfolio/il-giusto/calendar.png" target="_blank"><img src="./assets/portfolio/il-giusto/calendar.png"></a>
+                            <a href="./assets/portfolio/il-giusto/meal-planning.png" target="_blank"><img src="./assets/portfolio/il-giusto/meal-planning.png"></a>
+                            <a href="./assets/portfolio/il-giusto/training.png" target="_blank"><img src="./assets/portfolio/il-giusto/training.png"></a>
+                            <a href="./assets/portfolio/il-giusto/meal-compositor.png" target="_blank"><img src="./assets/portfolio/il-giusto/meal-compositor.png"></a>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <h1 id="data-analyst" class="section-title">Data Analyst</h1>
+            <article class="data-analyst">
+                <div class="left">
+                    Repellendus iste reprehenderit quaerat quas culpa est quae. Blanditiis minima reprehenderit sed est neque. Ut provident in facilis. Et natus ipsam numquam aut ut. Officiis quia hic ipsa nisi facilis ipsum. Cupiditate earum ut aut quos ut.
+                </div>
+                <div class="right">
+                    Et voluptatem sunt atque est qui magnam eos voluptas. Quod doloribus aperiam rerum illo. Voluptas dolores voluptates exercitationem et hic aliquid. Tempora consequuntur at qui amet recusandae vitae. Quaerat dolor et voluptas vel. Soluta tenetur dolores provident qui quis tempora.
+                </div>
+            </article>
+        </section>
+        <section id="tools">
+            <h1 class="section-title">tools / technologies</h1>
+            <article>
+                <div class="technology programming-languages blue">Programming languages</div>
+                <div class="description">Javascript, Python, Java</div>
+                <div class="technology markup-styling blue">Markup / Styling</div>
+                <div class="description">HTML, CSS, Markdown</div>
+                <div class="technology data blue">Data</div>
+                <div class="description">SQL, Knime</div>
+                <!-- <div class="technology frameworks blue">Frameworks</div>
+                <div class="description">React, Express.js, Django</div> -->
+                <br>
+                <div class="technology wanto-to-lear blue">Want to learn</div>
+                <div class="description">
+                    <div>Express.js, Django, HTMX, Alpinejs, React</div>
+                    <div>Transformers.js, Pytorch</div>
+                </div>
+            </article>
+        </section>
+        <section id="blog-feed">
+            <h1 class="section-title">Last blog articles</h1>
+            <!-- Show the last 5 blog articles -->
+                {% set articleCount = 0 %}
+                <ul>
+                {% for page in pages(depth=null)|sort_by("time")|reverse if not page.meta.hidden and page.meta.template == "post" %}
+                    {% if articleCount < 6 %}
+                            <li>{{ page.date_formatted }} - <a href="{{ page.url }}">{{ page.title }}</a></li>
+                    {% endif %}
+                    {% set articleCount = articleCount + 1 %}
+                {% endfor %}
+                </ul>
+        </section>
+        <section id="contact">
+            <article>
+                <h1 class="section-title">Contact</h1>
+                <div class="technology email blue">email</div>
+                <div class="description email">&#x69;&#x61;&#x67;&#x6F;&#x40;&#x69;&#x61;&#x67;&#x6F;&#x76;&#x61;&#x72;&#x2E;&#x63;&#x6F;&#x6D;</div>
+                <div class="technology phone blue">phone</div>
+                <div class="description phone">
+
+                    <a href="https://api.whatsapp.com/send?phone=34644516980&text=https://api.whatsapp.com/send?phone=34644516980&text=Hey%2C%20I%20just%20saw%20your%20website%20and%20wanted%20to%20contact%20you%3A%20" target="_blank"><img src="{{ theme_url }}/img/WhatsAppButtonWhiteSmall.svg"></a>
+                    +34 644 51 69 80
+
+                </div>
+                <div class="technology social-media blue">social media</div>
+                <div class="social-media">
+                    <a href="https://github.com/iagovar/">Github</a>
+                </div>
+            </article>
+        </section>
+    </div>
+    {% include 'footer-links.twig' %}
+</body>
+</html>

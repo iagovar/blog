@@ -1,0 +1,5 @@
+---
+Template: articles
+
+title: Articles
+---

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ meta.description|striptags }}">
+    <meta name="author" content="{{ config.author }}">
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{ theme_url }}/img/favicon.ico" type="image/x-icon">
+
+    <!-- Custom CSS & JS -->
+    <link href="{{ theme_url }}/css/styles.css" rel="stylesheet">
+    <script src="{{ theme_url }}/js/scripts.js"></script>
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://cdn.jsdelivr.net/npm/yandex-metrica-watch/tag.js", "ym");
+ 
+        ym(56129947, "init", {
+             clickmap:true,
+             trackLinks:true,
+             accurateTrackBounce:true
+        });
+     </script>
+     <noscript><div><img src="https://mc.yandex.ru/watch/56129947" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+     <!-- /Yandex.Metrika counter -->
+
+    <title>{{ site_title }}</title>
+</head>
+<body onload="main()">
+    {% include 'header-links.twig' %}
+    <div class="main-container">
+        <section id="content" style="min-height: unset">{{ content }}</section>
+        <section id="articles" style="min-height: unset">
+                {% for page in pages() if not page.meta.hidden %}
+                    {% if page.meta.template == 'category' %}
+                        <div class="list-category">
+                            <div class="category-name"><img class="folder" src="{{ theme_url }}/img/folder.svg"><a class="title" href="{{ page.url }}">{{ page.title }}</a></div>
+                            <ul class="list-articles">
+                            {% for article in pages(page.id)|sort_by(['time'])|reverse if not page.meta.hidden %}
+                                <li>{{ article.date_formatted }} - <a href="{{ article.url }}">{{ article.title }}</a></li>
+                            {% endfor %}
+                            </ul>
+                        </div>
+                    {% endif %}
+                {% endfor %}
+                <hr>
+                <h3>Orphan Articles</h3>
+                <ul class="list-articles">
+                {% for orphanArticle in pages(depth=0)|sort_by(['time'])|reverse if orphanArticle.meta.template == 'post' and not orphanArticle.meta.hidden %}
+                    <li>{{ orphanArticle.date_formatted }} - <a href="{{ orphanArticle.url }}">{{ orphanArticle.title }}</a></li>
+                {% endfor %}
+                </ul>
+
+        </section>
+    </div>
+    {% include 'footer-links.twig' %}
+</body>
+</html>

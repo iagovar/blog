@@ -1,0 +1,96 @@
+:root {
+	--gris-oscuro:  #2b2d42;
+	--gris-medio:  #8d99ae;
+	--gris-clarito:  #edf2f4;
+	--rojo-medio:  #ef233c;
+	--rojo-oscuro:  #d90429;
+}
+
+*{
+	/* border: 1px solid red; */
+	padding: 0.3em;
+	margin: 0.2em;
+}
+
+body {
+	max-width: 375px;
+	margin: 0 auto;
+}
+
+button {
+	padding: 1em;
+}
+
+input {
+	padding: 1em;
+    margin: 1em;
+    width: 72%;
+}
+
+/* Main three blocks */
+
+#header {
+	border: 1px solid blue;
+	background-color: var(--gris-oscuro);
+	color: var(--gris-clarito);
+
+	display: flex;
+	flex-direction: column;
+	place-items: center;
+}
+
+#main {
+	border: 1px solid black;
+	background-color: var(--gris-clarito);
+
+}
+
+#footer {
+	text-align: center;
+}
+
+/* Main */
+
+#main > div:nth-child(2) {
+	text-align: center;
+}
+
+#howmany {
+	display: flex;
+	flex-direction: column;
+	place-items:  center;
+}
+
+#rspbuttons {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+#score {
+	border: 1px solid var(--rojo-oscuro);
+	padding: 0;
+	margin-top: 1em;
+}
+
+#score > div {
+	margin: 0;
+}
+
+#score > div:nth-child(1) {
+	background-color: var(--rojo-oscuro);
+	color: white;
+}
+
+.scoretable > div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 0;
+}
+
+.thisround > div {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin: 0;
+}
