@@ -1,8 +1,13 @@
 def consolidateTypeOfCompany(value):
-    stateOwnershipCompany = ["pública", "ayuntamiento"]
-    isItStateOwned = stateOwnershipCompany.__contains__(str(value).lower())
-    if isItStateOwned:
-        return "Sociedad Pública"
-    else:
-        return "Sociedad Privada"
+    if not value:
+        return "Not provided"
+    
+    value = value.lower()
+    stateOwnershipCompany = ["públic", "ayuntamiento"]
+
+    for sentence in stateOwnershipCompany:
+        if sentence in value:
+            return "Sociedad Pública"
+
+    return "Sociedad Privada"
 

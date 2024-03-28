@@ -1,5 +1,5 @@
 Filial propietaria directa	Inmuebles	Matriz	Sede empresa matriz	Sede sociedad utilizada	Tipo sociedad utilizada	Administración	Sector	Subsector	region	typeOfCompany
-Navarra de Suelo y Vivienda, S.A.	1102	Gobierno de Navarra	España	España	Empresa pública	CCAA	Parque público	NA	Navarra	Sociedad Privada
+Navarra de Suelo y Vivienda, S.A.	1102	Gobierno de Navarra	España	España	Empresa pública	CCAA	Parque público	NA	Navarra	Sociedad Pública
 Adania Patrimonio S.L.	429	Adania Grupo Empresarial	España	España	Empresa privada	NA	Inmobiliaria	NA	Navarra	Sociedad Privada
 Errotabidea S.A.	335	Caja Rural de Navarra	España	España	Empresa privada	NA	Entidades financieras	Banca	Navarra	Sociedad Privada
 Testa Residencial S.L.U	332	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Navarra	Sociedad Privada
@@ -10,13 +10,13 @@ Luri 6, S.A., Soc. de Inversión Inmobiliaria	91	Banco Santander	España	España
 Inmobiliaria Osane, S.L.	87	Caja Rural de Navarra	España	España	Empresa privada	NA	Entidades financieras	Banca	Navarra	Sociedad Privada
 Buildingcenter S.A.U.	72	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Navarra	Sociedad Privada
 Saldemonte Ribera, S.L.	67	Saldemonte Ribera, S.L.	España	España	Empresa privada	NA	Construcción	NA	Navarra	Sociedad Privada
-Ayuntamiento de Pamplona	62	Ayuntamiento de Pamplona	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Navarra	Sociedad Privada
+Ayuntamiento de Pamplona	62	Ayuntamiento de Pamplona	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Navarra	Sociedad Pública
 Féix Fraile Oneca	61	Féix Fraile Oneca	España	España	Empresa privada	NA	Inmobiliaria	NA	Navarra	Sociedad Privada
 Gestión Residencial S.A.	214	Grupo Proginsa	España	España	Empresa privada	NA	Inmobiliaria	NA	Navarra	Sociedad Privada
 Apartamentos Tutelados Leyre S.L.	57	Grupo Proginsa	España	España	Empresa privada	NA	Inmobiliaria	NA	Navarra	Sociedad Privada
 Urban Domus Toloño, S.L.	50	Pluralia Gestión S.L.	España	España	Empresa privada	NA	Inmobiliaria	NA	Navarra	Sociedad Privada
 Promoción de Viviendas Marfer, S.L.	50	Pluralia Gestión S.L.	España	España	Empresa privada	NA	Inmobiliaria	NA	Navarra	Sociedad Privada
-EMPRESA PROVINCIAL DE VIVIENDA Y SUELO DE CADIZ SA	50	Ayuntamiento de Cádiz	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA PROVINCIAL DE VIVIENDA Y SUELO DE CADIZ SA	50	Ayuntamiento de Cádiz	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 AEDAS HOMES OPCO, SLU	50	Castlelake	Estados Unidos	Luxemburgo	Soparfi	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 TORREMOLINOS 88 SL	50	Torremolinos 88 SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 TRAISA SL	50	Traisa SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
@@ -26,8 +26,8 @@ RESIDENCIAL MURILLO SA	51	Ibercaja	España	España	Empresa privada	NA	Entidades 
 AYUNTAMIENTO DE VEJER DE LA FRONTERA	52	Ayuntamiento de Vejer de la Frontera	España	España	Ayuntamiento	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 GRAMINA HOMES S.L.	53	Lone Star	Estados Unidos	Bermudas	Empresa privada	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 PARQUE CENTRO SL	53	Parque Centro SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-ARMUVISSA I,SA	54	Ayuntamiento de Armilla	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-SOCIEDAD PARA EL DESARROLLO DE CARMONA SA	54	Ayuntamiento de Carmona	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+ARMUVISSA I,SA	54	Ayuntamiento de Armilla	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+SOCIEDAD PARA EL DESARROLLO DE CARMONA SA	54	Ayuntamiento de Carmona	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 DAMGIM PROPERTY SL	54	Damgim Property SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 EDIFICIO ROJO CB	54	Edificio Rojo CB	España	España	Comunidad de bienes	NA	Otros	Comunidad de bienes	Andalucia	Sociedad Privada
 HISPANIA RETAIL PROPERTIES SL	54	GO Orange LP	Islas Caimán	Luxemburgo	Soparfi	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
@@ -43,14 +43,14 @@ GENERAL DE GALERIAS COMERCIALES SOCIMI SA	620	General de Galerías Comerciales S
 HERMAGOR SA	58	Hermagor SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 AYUNTAMIENTO DE PALMA DEL RIO	59	Ayuntamiento de Palma del Río	España	España	Ayuntamiento	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 AYUNTAMIENTO DE PATERNA DE RIVERA	59	Ayuntamiento de Paterna de Rivera	España	España	Ayuntamiento	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
-EMPRESA PUBLICA DE VIVIENDA, SUELO Y EQUIPAMIENTO DE BAZA SL	60	Ayuntamiento de Baza	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA PUBLICA DE VIVIENDA, SUELO Y EQUIPAMIENTO DE BAZA SL	60	Ayuntamiento de Baza	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 GESCAT VIVENDES EN COMERCIALIZACIO SL	60	BBVA	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 CARMILA ESPAÑA S.L.U.	343	Carrefour	Francia	España	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
 INJUPISA S.L.U.	203	Juyro 1961 SL	España	España	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
 RAIMUNDO GRAMONTELL SL	60	Raimundo Gramontell SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 VIEJOROBLE SL	60	Viejoroble SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 AD ASTRA PROYECTO MISR, S.L.	60	Visasur SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL ALMERIA XXI SA	61	Ayuntamiento de Almería	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL ALMERIA XXI SA	61	Ayuntamiento de Almería	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 CERPER RESIDENCIAL	62	Beren Magnus SL	España	España	Empresa privada	NA	Otros	Geriátricos	Andalucia	Sociedad Privada
 CONSTRUCCIONES LOGOMARU SL	62	Construcciones Logomaru SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 GALVEZ ANTUNEZ CASTRO BERROCAL 2005, SL	62	Gálvez Antúnez Castro Berrocal 2005 SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
@@ -78,7 +78,7 @@ HERMANOS MORENO TORRES HERRERA CB	70	Hermanos Moreno Torres Herrera CB	España	E
 PROMOCIONES ZUYDI SL	70	Promociones Zuydi SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 MOSACATA SL	70	Unicaja	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 AYUNTAMIENTO DE LOS BARRIOS	71	Ayuntamiento de Los Barrios	España	España	Ayuntamiento	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
-ADIF ALTA VELOCIDAD	71	Adif	España	España	Empresa pública	Administración central	Otros	Infraestructuras aeroportuarias	Andalucia	Sociedad Privada
+ADIF ALTA VELOCIDAD	71	Adif	España	España	Empresa pública	Administración central	Otros	Infraestructuras aeroportuarias	Andalucia	Sociedad Pública
 HOGALIA PROYECTOS E INVERSIONES SL	71	Hogalia Proyectos Inmobiliarios	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 CIMENTADOS3 SA	73	Banco de Crédito Social Cooperativo	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 GESTIONES HOSPEDALIA, S.L.	73	Gestiones Hospedalia	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
@@ -87,11 +87,11 @@ INGKA CENTRES JEREZ, S.L.	73	Inter IKEA Holding B.V.	Países Bajos	Dinamarca	Emp
 RIBERA CITY GROUP SL	73	Ribera City Group SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 INMOBILIARIA PUERTA ELVIRA SL	74	Inmobiliaria Puerta Elvira SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 GAVARI PROPERTIES SOCIMI SA	75	Gavari Properties Socimi SA	España	España	Socimi	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-SOCIEDAD DE DESARRROLLO DE MONTELLANO SL	76	Ayuntamiento de Montellano	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+SOCIEDAD DE DESARRROLLO DE MONTELLANO SL	76	Ayuntamiento de Montellano	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 INVERSIONES INMOBILIARIAS CANVIVES SA	77	Blackstone	Estados Unidos	Luxemburgo	Empresa privada	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 GLOBAL PHOBOS, S.L.U.	77	Global Armorica	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 UTE ZARAPICO 3 SL Y MYM RENTA SL LEY 18/1982 DE 26 DE MAYO	77	Ute Zarapico 3 SL y Mym Renta SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-EMDARO AROCHE S.L.U.	78	Ayuntamiento de Aroche	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMDARO AROCHE S.L.U.	78	Ayuntamiento de Aroche	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 GUTIERREZ PEREZ HERMANOS CB	78	Gutiérrez Pérez Hermanos CB	España	España	Comunidad de bienes	NA	Otros	Comunidad de bienes	Andalucia	Sociedad Privada
 IMASINTER VIVIENDA JOVEN SL	181	Imasinter Vivienda Joven	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 NESTAR RESIDENCIAL S.I.I, S.A	79	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
@@ -116,15 +116,15 @@ ARRENDAMENT IMMOBILIARI ASSEQUIBLE SL	89	CaixaBank	España	España	Empresa priva
 CAMESA INMUEBLES SL	89	Camesa Inmuebles SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 FRUTAS EL CIPRI, SL	89	Frutas El Cipri SL	España	España	Empresa privada	NA	Otros	Alimentación	Andalucia	Sociedad Privada
 AYUNTAMIENTO DE ROTA	90	Ayuntamiento de Rota	España	España	Ayuntamiento	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
-URBANIZADORA TARIFEÑA, SA	90	Ayuntamiento de Tarifa	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+URBANIZADORA TARIFEÑA, SA	90	Ayuntamiento de Tarifa	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 DOC MALAGA SITECO, S.L.U.	90	Lyvea Global SL	España	España	Empresa privada	NA	Consultoría y abogacía	NA	Andalucia	Sociedad Privada
-TERRENOS URBANIZABLES DE AYAMONTE	91	Ayuntamiento de Ayamonte	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+TERRENOS URBANIZABLES DE AYAMONTE	91	Ayuntamiento de Ayamonte	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 VIA OUTLETS SEVILLA SL	66	Via (NL) 5 BV	Países Bajos	Países Bajos	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
 GESMAR PROICASA SA	91	Gesmar Proicasa	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 JOIGCA SA	91	Joigca SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 REAL FUNDACION PATRONATO DE LA VIVIENDA DE SEVILLA	92	Real Fundación Patronato de la Vivienda de Sevilla	España	España	Fundación	NA	Fundaciones de vivienda social	NA	Andalucia	Sociedad Privada
 AREA SUR SHOPPING SL	93	Afiens Legal SLP	España	España	Empresa privada	NA	Consultoría y abogacía	NA	Andalucia	Sociedad Privada
-PRODUSA, SOCIEDAD DE PROMOCION Y DESARROLLO DE UTRERA	93	Ayuntamiento de Utrera	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+PRODUSA, SOCIEDAD DE PROMOCION Y DESARROLLO DE UTRERA	93	Ayuntamiento de Utrera	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 CLAROS S. COOP. AND.	93	Claros SCA	España	España	Cooperativa	NA	Otros	Geriátricos	Andalucia	Sociedad Privada
 MAÑAS CANO SL	93	Mañas Cano SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 MERLIN PROPERTIES SOCIMI, S.A.	93	Merlin Properties Socimi SA	España	España	Socimi	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
@@ -134,7 +134,7 @@ AHORRO CORPORACION PATRIMONIO INMOBILIARIO FII	97	Abanca	España	España	Empresa
 CEETRUS URBAN PLAYER SPAIN, S.A.	99	Elsimar Beheermaatschappij BV	Países Bajos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 JAYLE INVERSIONES, S.L.	100	Jayle Inversiones SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 VIVENIO RESIDENCIAL SOCIMI SA	100	Renta Corporación	España	España	Socimi	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-RED LOGISTICA DE ANDALUCIA SA	102	Junta de Andalucía	España	España	Empresa pública	CCAA	Parque público	NA	Andalucia	Sociedad Privada
+RED LOGISTICA DE ANDALUCIA SA	102	Junta de Andalucía	España	España	Empresa pública	CCAA	Parque público	NA	Andalucia	Sociedad Pública
 ALLIANZ COMPAÑIA DE SEGUROS Y REASEGUROS SA	103	Grupo Allianz	Alemania	Alemania	Empresa privada	NA	Seguros	NA	Andalucia	Sociedad Privada
 ARRENDAMIENTOS LUNA SL	105	Inmobiliaria Luna de Granada	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 DIVARIAN PROPIEDAD SA	106	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
@@ -150,37 +150,37 @@ INVERLET SL	139	Inverlet SL	España	España	Empresa privada	NA	Inmobiliaria	NA	A
 AYUNTAMIENTO DE BENALMADENA	140	Ayuntamiento de Benalmádena	España	España	Ayuntamiento	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 LE RETAIL LAGOH, S.L.U.	140	Vukile Property Fund Limited	Sudáfrica	España	Socimi	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 INMO CRITERIA ARRENDAMIENTO II S.L.U.	290	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
-SUELO Y VIVIENDA DE LUCENA SA	142	Ayuntamiento de Lucena	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+SUELO Y VIVIENDA DE LUCENA SA	142	Ayuntamiento de Lucena	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 FUNDACION VIMPYCA ENTIDAD BENEFICA DE CONSTRUCCION	143	Vimpyca	España	España	Fundación	NA	Fundaciones de vivienda social	NA	Andalucia	Sociedad Privada
 HACIENDA RETAMAR SA	144	Hacienda Retamar SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 URBASS EUROFINANCE, SA	153	Urbass Eurofinance SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DE URBANISMO SA	164	Ayuntamiento de Sevilla	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL DE URBANISMO SA	164	Ayuntamiento de Sevilla	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 CATELLA WE-08 SPAIN, S.L.U.	175	Catella Real Estate AG	Alemania	Alemania	Empresa privada	NA	Consultoría y abogacía	NA	Andalucia	Sociedad Privada
 HABITEA ACTIVOS 2010 SL EN LIQUIDACION	179	Habitea Activos 2010 SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 COSTASOL DE HIPERMERCADOS, SL	63	Costasol de Hipermercados SL	España	España	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DE LA VIVIENDA DE HUELVA SA	182	Ayuntamiento de Huelva	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-SEVILLA ACTIVA M.P. S.A.U.	183	Diputación de Sevilla	España	España	Empresa pública	Diputación	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL DE LA VIVIENDA DE HUELVA SA	182	Ayuntamiento de Huelva	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+SEVILLA ACTIVA M.P. S.A.U.	183	Diputación de Sevilla	España	España	Empresa pública	Diputación	Parque público	NA	Andalucia	Sociedad Pública
 INVERSIONES INMOBILIARIAS LIMARA SL	185	Blackstone	Estados Unidos	Luxemburgo	Soparfi	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 UNION DE CREDITOS INMOBILIARIOS SA ESTABLECIMIENTO FINANCIERO DE CREDITO	194	Banco Santander	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 CARMILA CÓRDOBA SLU	60	Carrefour	Francia	España	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DE SUELO Y VIVIENDA,SL	203	Ayuntamiento de La Línea de La Concepción	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL DE SUELO Y VIVIENDA,SL	203	Ayuntamiento de La Línea de La Concepción	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 PROMOCIONES Y CONSTRUCCIONES ANGULO SANCHEZ SA	206	Promociones y Construcciones Angulo Sánchez	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DE SUELO Y VIVIENDA DE EL PUERTO DE SANTA MARIA SA	206	Ayuntamiento de El Puerto de Santa María	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL DE SUELO Y VIVIENDA DE EL PUERTO DE SANTA MARIA SA	206	Ayuntamiento de El Puerto de Santa María	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 PROMONTORIA COLISEUM RESIDENTIAL SL	218	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 BANKIA, S.A.	220	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 BANCO MARE NOSTRUM, S.A.	220	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 ALMERIVENTA SL	227	Almeriventa SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 PINO MONTANO RENTA SL	229	Promociones y Construcciones Angulo Sánchez	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 SE. PERIAN SL	233	Se Perian SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-ROCHE SA MUNICIPAL	236	Ayuntamiento de Conil de la Frontera	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+ROCHE SA MUNICIPAL	236	Ayuntamiento de Conil de la Frontera	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 ANSAMO SA	253	Ansamo SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 INMO CRITERIA ARRENDAMIENTO III S.L.U.	266	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 CERVICAL QLP SL	266	Kna SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 INMOBILIARIA DAURO SA	269	Inmobiliaria Dauro SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-EMPRESA DE SUELO ISLEÑA SA	270	Ayuntamiento de San Fernando	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA DE SUELO ISLEÑA SA	270	Ayuntamiento de San Fernando	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 BANCO DE SABADELL SA	281	Banco Sabadell	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
 INMOBILIARIA EMILIO CASTRO E HIJOS SA	298	Inmobiliaria Emilio Castro e Hijos SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DEL SUELO Y LA VIVIENDA DE SAN ROQUE, SA	309	Ayuntamiento de San Roque	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL DEL SUELO Y LA VIVIENDA DE SAN ROQUE, SA	309	Ayuntamiento de San Roque	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 PLAZA MAYOR SHOPPING SA	60	Plaza Mayor BV	Países Bajos	España	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
 LAZORA SII SA	350	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 CORAL HOMES, SLU	355	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
@@ -188,27 +188,27 @@ KNA SA	374	Kna SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	S
 TESTA RESIDENCIAL SOCIMI S.A.	379	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
 RENTURNOGA SL	421	Nogarent	España	España	Empresa privada	NA	Inmobiliaria	NA	Andalucia	Sociedad Privada
 ALISEDA SA	422	Blackstone	Estados Unidos	Luxemburgo	Empresa privada	NA	Entidades financieras	Fondos de inversión	Andalucia	Sociedad Privada
-SOCIEDAD DE GESTION DE ACTIVOS PROCEDENTES DE LA REESTRUCTURACION BANCARIA SA	441	Sareb	España	España	Empresa pública	Administración central	Entidades financieras	Sociedad de gestión de activos	Andalucia	Sociedad Privada
-PATRONATO DE VIVIENDAS MUNICIPALES CADIZ	454	Ayuntamiento de Cádiz	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+SOCIEDAD DE GESTION DE ACTIVOS PROCEDENTES DE LA REESTRUCTURACION BANCARIA SA	441	Sareb	España	España	Empresa pública	Administración central	Entidades financieras	Sociedad de gestión de activos	Andalucia	Sociedad Pública
+PATRONATO DE VIVIENDAS MUNICIPALES CADIZ	454	Ayuntamiento de Cádiz	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 BANCO SANTANDER SA	1243	Banco Santander	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
-EMPRESA PROVINCIAL DE VIVIENDA SUELO Y EQUIPAMIENTO DE GRANADA SA	477	Ayuntamiento de Granada	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-AENA AEROPUERTOS, S.A.	483	Aena	España	España	Empresa pública	Administración central	Otros	Infraestructuras aeroportuarias	Andalucia	Sociedad Privada
-SODERIN VEINTIUNO DESARROLLO Y VIVIENDA SAU	587	Ayuntamiento de La Rinconada	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA PROVINCIAL DE VIVIENDA SUELO Y EQUIPAMIENTO DE GRANADA SA	477	Ayuntamiento de Granada	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+AENA AEROPUERTOS, S.A.	483	Aena	España	España	Empresa pública	Administración central	Otros	Infraestructuras aeroportuarias	Andalucia	Sociedad Pública
+SODERIN VEINTIUNO DESARROLLO Y VIVIENDA SAU	587	Ayuntamiento de La Rinconada	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 COMERCIANTES DEL PONIENTE SA	58	Comerciales del Poniente SA	España	España	Empresa privada	NA	Centros comerciales y mercados	NA	Andalucia	Sociedad Privada
-INMUVISA INICIATIVA MUNICIPAL PARA LA VIVIENDA SA	626	Ayuntamiento de Lebrija	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-EMSISA EMPRESA MUNICIPAL, SA	647	Ayuntamiento de Chiclana de la Frontera	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-VIVIENDAS MUNICIPALES DE CORDOBA	728	Ayuntamiento de Córdoba	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-ADMINITRADOR DE INFRAESTRUCTURAS FERROVIARIAS	809	Adif	España	España	Empresa pública	Administración central	Otros	Infraestructuras ferroviarias	Andalucia	Sociedad Privada
-PROMOCION Y GESTION DE VIVIENDAS DE CADIZ SA	881	Ayuntamiento de Cádiz	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DE LA VIVIENDA DE JEREZ SA	1370	Ayuntamiento de Jerez	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-INSTITUTO MUNICIPAL DE LA VIVIENDA, LA REHABILITACION Y LA REGENERACION URBANA	1465	Ayuntamiento de Málaga	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
+INMUVISA INICIATIVA MUNICIPAL PARA LA VIVIENDA SA	626	Ayuntamiento de Lebrija	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+EMSISA EMPRESA MUNICIPAL, SA	647	Ayuntamiento de Chiclana de la Frontera	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+VIVIENDAS MUNICIPALES DE CORDOBA	728	Ayuntamiento de Córdoba	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+ADMINITRADOR DE INFRAESTRUCTURAS FERROVIARIAS	809	Adif	España	España	Empresa pública	Administración central	Otros	Infraestructuras ferroviarias	Andalucia	Sociedad Pública
+PROMOCION Y GESTION DE VIVIENDAS DE CADIZ SA	881	Ayuntamiento de Cádiz	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+EMPRESA MUNICIPAL DE LA VIVIENDA DE JEREZ SA	1370	Ayuntamiento de Jerez	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+INSTITUTO MUNICIPAL DE LA VIVIENDA, LA REHABILITACION Y LA REGENERACION URBANA	1465	Ayuntamiento de Málaga	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
 UNICAJA BANCO SA	1566	Unicaja	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
-EMPRESA MUNICIPAL DE VIVIENDA, SUELO Y EQUIPAMIENTO DE SEVILLA, SA	2466	Ayuntamiento de Sevilla	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Privada
-JUNTA DE ANDALUCIA	4264	Junta de Andalucía	España	España	Empresa pública	CCAA	Parque público	NA	Andalucia	Sociedad Privada
+EMPRESA MUNICIPAL DE VIVIENDA, SUELO Y EQUIPAMIENTO DE SEVILLA, SA	2466	Ayuntamiento de Sevilla	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Andalucia	Sociedad Pública
+JUNTA DE ANDALUCIA	4264	Junta de Andalucía	España	España	Empresa pública	CCAA	Parque público	NA	Andalucia	Sociedad Pública
 BUILDINGCENTER SAU	5846	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Andalucia	Sociedad Privada
-AGENCIA DE VIVIENDA Y REHABILITACION DE ANDALUCIA	13716	Junta de Andalucía	España	España	Empresa pública	CCAA	Parque público	NA	Andalucia	Sociedad Privada
+AGENCIA DE VIVIENDA Y REHABILITACION DE ANDALUCIA	13716	Junta de Andalucía	España	España	Empresa pública	CCAA	Parque público	NA	Andalucia	Sociedad Pública
 Buildingcenter, S.A.U.	383	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Aragon	Sociedad Privada
-Sociedad Municipal Zaragoza Vivienda, S.L.U.	332	Ayuntamienyo de Zaragoza	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Aragon	Sociedad Privada
+Sociedad Municipal Zaragoza Vivienda, S.L.U.	332	Ayuntamienyo de Zaragoza	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Aragon	Sociedad Pública
 Nestar Residencial SII, S.A.	238	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Aragon	Sociedad Privada
 Inmo Criteria Arrendamiento S.L.U.	161	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Aragon	Sociedad Privada
 Vea Rental Homes Socimi S.A.	153	Banco Sabadell	España	España	Empresa privada	NA	Entidades financieras	Banca	Aragon	Sociedad Privada
@@ -216,15 +216,15 @@ Entrecampos Cuatro Socimi, S.A.	102	Entrecampos Cuatro Socimi SA	España	España
 Inversiones Ezetra S.L.	92	Bancale Servicios Integrales SL	España	España	Empresa privada	NA	Entidades financieras	Compraventa de participaciones	Aragon	Sociedad Privada
 Compañía Urbanizadora Norte Zaragoza S.L.	90	Compañía Urbanizadora Norte Zaragoza S.L.	España	España	Empresa privada	NA	Inmobiliaria	NA	Aragon	Sociedad Privada
 Zatiber Fusión S.L.	81	Zatiber Fusión SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Aragon	Sociedad Privada
-Suelo y Vivienda de Aragón	231	Gobierno de Aragón	España	España	Empresa pública	CCAA	Parque público	NA	Aragon	Sociedad Privada
+Suelo y Vivienda de Aragón	231	Gobierno de Aragón	España	España	Empresa pública	CCAA	Parque público	NA	Aragon	Sociedad Pública
 UNICAJA BANCA, S.A.	72	Unicaja Banco	España	España	Empresa privada	NA	Entidades financieras	Banca	Castilla la mancha	Sociedad Privada
 MOSACATA, S.L.	1230	Unicaja Banco	España	España	Empresa privada	NA	Entidades financieras	Banca	Castilla la mancha	Sociedad Privada
 TESTA RESIDENCIAL, S.L.	400	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Castilla la mancha	Sociedad Privada
 TEMPORE PROPERTIES SOCIMI, S.A	153	TPG	Estados Unidos	Estados Unidos	Socimi	NA	Entidades financieras	Fondos de inversión	Castilla la mancha	Sociedad Privada
-SAREB, S.A.	194	Sareb	España	España	Empresa pública	Administración central	Entidades financieras	Sociedad de gestión de activos	Castilla la mancha	Sociedad Privada
+SAREB, S.A.	194	Sareb	España	España	Empresa pública	Administración central	Entidades financieras	Sociedad de gestión de activos	Castilla la mancha	Sociedad Pública
 KTESIOS REAL ESTATE SOCIMI SA	198	RKS Real Estate	Luxemburgo	España	Socimi	NA	Inmobiliaria	NA	Castilla la mancha	Sociedad Privada
 INVERSIONES EZETRA S.L	53	Bancale Servicios Integrales SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Castilla la mancha	Sociedad Privada
-GICAMAN S.A.	1187	Junta de Comunidades de Castilla-La Mancha	España	España	Empresa pública	CCAA	Parque público	NA	Castilla la mancha	Sociedad Privada
+GICAMAN S.A.	1187	Junta de Comunidades de Castilla-La Mancha	España	España	Empresa pública	CCAA	Parque público	NA	Castilla la mancha	Sociedad Pública
 FUNDACION SAN DIEGO DE ALCALA	112	Fundación San Diego de Alcalá	España	España	Fundación	NA	Fundaciones	NA	Castilla la mancha	Sociedad Privada
 PROMONTORIA COLISEUM REAL ESTATE S.L.U.	52	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Castilla la mancha	Sociedad Privada
 CRITERIA CAIXA, S.A.	148	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Castilla la mancha	Sociedad Privada
@@ -238,18 +238,18 @@ Banco Sabadell, SA	56	Banco Sabadell	España	España	Empresa privada	NA	Entidade
 Banco de Castilla La Mancha, S.A.	72	Unicaja Banco	España	España	Empresa privada	NA	Entidades financieras	Banca	Castilla la mancha	Sociedad Privada
 LIBERBANK, S.A.	74	Unicaja Banco	España	España	Empresa privada	NA	Entidades financieras	Banca	Castilla la mancha	Sociedad Privada
 RETAMAR, S.A.	147	Unicaja Banco	España	España	Empresa privada	NA	Entidades financieras	Banca	Castilla la mancha	Sociedad Privada
-Administrador de Infraestructuras Ferroviarias	152	Adif	España	España	Empresa pública	Administración central	Transportes	NA	Castilla la mancha	Sociedad Privada
+Administrador de Infraestructuras Ferroviarias	152	Adif	España	España	Empresa pública	Administración central	Transportes	NA	Castilla la mancha	Sociedad Pública
 ABANCA CORPORACION BANCARIA SA	55	Abanca	España	España	Empresa privada	NA	Entidades financieras	Banca	Madrid	Sociedad Privada
 ACEF SPAIN PROPCO, S.L.U.	523	Axa	Francia	Luxemburgo	Socimi	NA	Seguros	NA	Madrid	Sociedad Privada
 ADANIA PATRIMONIO, S.L.	148	Adania	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-ADIF-ALTA VELOCIDAD	142	Adif	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras aeroportuarias	Madrid	Sociedad Privada
+ADIF-ALTA VELOCIDAD	142	Adif	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras aeroportuarias	Madrid	Sociedad Pública
 ADMAFINCAS S.L	88	Admafincas SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 ADMINISTRACIÓN Y GESTIÓN DE EDIFICIOS, S.A.	97	Administración y gestión de edificios SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 ADMINISTRACIONES HERRANZ S.L.	61	Administraciones Herranz SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS	527	Adif	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras ferroviarias	Madrid	Sociedad Privada
-AENA S.M.E, S.A.	1038	Aena	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras aeroportuarias	Madrid	Sociedad Privada
+ADMINISTRADOR DE INFRAESTRUCTURAS FERROVIARIAS	527	Adif	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras ferroviarias	Madrid	Sociedad Pública
+AENA S.M.E, S.A.	1038	Aena	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras aeroportuarias	Madrid	Sociedad Pública
 AFAR 4 S.L.	152	Afar 4 SL	España	España	Empresa privada	NA	Construcción	NA	Madrid	Sociedad Privada
-AGENCIA DE VIVIENDA SOCIAL	21445	Comunidad de Madrid	España	España	Empresas públicas o administraciones	Comunidad Autónoma	Parque público	NA	Madrid	Sociedad Privada
+AGENCIA DE VIVIENDA SOCIAL	21445	Comunidad de Madrid	España	España	Empresas públicas o administraciones	Comunidad Autónoma	Parque público	NA	Madrid	Sociedad Pública
 AGISA, S.A.	882	Agisa	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 AKM ARGANZUELA, S.L.	56	Nohacmagdas Investments SL	España	España	Empresa privada	NA	Entidades financieras	Compraventa de participaciones	Madrid	Sociedad Privada
 ALBA PATRIMONIO INMOBILIARIO, S.A.	55	Grupo March	España	España	Empresa privada	NA	Entidades financieras	Banca	Madrid	Sociedad Privada
@@ -286,8 +286,8 @@ ASOCIACIÓN DE LA VOT DE SAN FRANCISCO DE ASÍS	294	Asociación de la venerable 
 AVANCE URBANO, S.L.	58	Empresas Tora 2003 SL	España	España	Empresa privada	NA	Consultoría	NA	Madrid	Sociedad Privada
 AVICOLA DEL JARAMA, S.A.	98	Avícola del Jarama	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 AVINTIA DESARROLLOS INMOBILIARIOS SL	82	Patrimonios Jivar 2000 SL	España	España	Empresa privada	NA	Consultoría	NA	Madrid	Sociedad Privada
-AYUNTAMIENTO DE MAJADAHONDA	117	Ayuntamiento de Majadahonda	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-AYUNTAMIENTO DE POZUELO DE ALARCON	127	Ayuntamiento de Pozuelo de Alarcón	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
+AYUNTAMIENTO DE MAJADAHONDA	117	Ayuntamiento de Majadahonda	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+AYUNTAMIENTO DE POZUELO DE ALARCON	127	Ayuntamiento de Pozuelo de Alarcón	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
 AZATA	65	Azata	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 AZATA RENTA	852	Azata	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 BANCO BILBAO VIZCAYA ARGENTARIA, S.A.	146	BBVA	España	España	Empresa privada	NA	Entidades financieras	Banca	Madrid	Sociedad Privada
@@ -370,7 +370,7 @@ DECOR II PROYECTOS INMOBILIARIOS, S.L.	60	Decor II Proyectos Inmobiliarios SL	Es
 DESARROLLOS ANMAR Y MARAL, S.L.	50	Desarrollos Anmar y Maral SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 DESARROLLOS AREA SUR S.L.U.	82	Promesenia SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 DEVELSA S.A.	55	Develsa SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-DIRECCIÓN GENERAL DE LA GUARDIA CIVIL- SERVIC.ACUART.-ARRENDAMIENTOS	149	Guardia Civil	España	España	Empresas públicas o administraciones	Administración central	Otros	Fuerzas de seguridad del Estado	Madrid	Sociedad Privada
+DIRECCIÓN GENERAL DE LA GUARDIA CIVIL- SERVIC.ACUART.-ARRENDAMIENTOS	149	Guardia Civil	España	España	Empresas públicas o administraciones	Administración central	Otros	Fuerzas de seguridad del Estado	Madrid	Sociedad Pública
 DIVARIAN PROPIEDAD S.A.	627	Cerberus	Estados Unidos	Países Bajos 	Empresa privada	NA	Entidades financieras	Fondos de inversión	Madrid	Sociedad Privada
 DOCTOR ESQUERDO 28, C.B.	51	Doctor Esquerdo 28 C.B.	España	España	Comunidad de bienes, de propietarios y herencias yacentes	NA	Comunidad de bienes, de propietarios y herencias yacentes	NA	Madrid	Sociedad Privada
 DOMUS CAPITAL S.L.	55	Domus Capital SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -388,17 +388,17 @@ EL ARCE DE VILLALBA, S.L.U.	134	Grupo Ortiz	España	España	Socimi	NA	Inmobiliar
 EL ENCINAR DEL NORTE SAU	312	El Encinar del Norte SAU	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 EL PARQUE INMOBILIARIO DE INVERSIONES S.L	335	El Parque Inmobiliario de Inversiones SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 ELIX VINTAGE RESIDENCIAL SOCIMI, S.A.	84	Grupo Allianz	Alemania	Luxemburgo	Socimi	NA	Seguros	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DE LA VIVIENDA ALCOBENDAS, S.A.	398	Ayuntamiento de Alcobendas	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DE LA VIVIENDA DE ALCALA DE HENARES, S.A.	115	Ayuntamiento de Alcalá de Henares	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DE LA VIVIENDA DE COSLADA S.A.	165	Ayuntamiento de Coslada	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DE LA VIVIENDA DE RIVAS VACIAMADRID, S.A.	1322	Ayuntamiento de Rivas	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DE SUELO DE SAN FERNANDO DE HENARES,S.A.	162	Ayuntamiento de San Fernando de Henares	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DE SUELO Y VIVIENDA DE S.SEBASTIAN DE LOS REYES,SAU	220	Ayuntamiento de Sanse	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DEL SUELO Y DE LA VIVIENDA SOCIAL DE GETAFE S.A.	54	Ayuntamiento de Getafe	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL DEL SUELO Y VIVIENDA DE BOADILLA DEL MONTE S.A.	52	Ayuntamiento de Boadilla	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA MUNICIPAL VIVIENDA Y SUELO S.A. (DIRECCIÓN EC.-GESTIÓN COBRO)	6897	Ayuntamiento de Madrid	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-EMPRESA NACIONAL MARCASA	62	Mercasa	España	España	Empresas públicas o administraciones	Administración central	Centros comerciales y mercados	NA	Madrid	Sociedad Privada
-EMSULE, S.A.	281	Ayuntamiento de Leganés	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
+EMPRESA MUNICIPAL DE LA VIVIENDA ALCOBENDAS, S.A.	398	Ayuntamiento de Alcobendas	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DE LA VIVIENDA DE ALCALA DE HENARES, S.A.	115	Ayuntamiento de Alcalá de Henares	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DE LA VIVIENDA DE COSLADA S.A.	165	Ayuntamiento de Coslada	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DE LA VIVIENDA DE RIVAS VACIAMADRID, S.A.	1322	Ayuntamiento de Rivas	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DE SUELO DE SAN FERNANDO DE HENARES,S.A.	162	Ayuntamiento de San Fernando de Henares	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DE SUELO Y VIVIENDA DE S.SEBASTIAN DE LOS REYES,SAU	220	Ayuntamiento de Sanse	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DEL SUELO Y DE LA VIVIENDA SOCIAL DE GETAFE S.A.	54	Ayuntamiento de Getafe	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL DEL SUELO Y VIVIENDA DE BOADILLA DEL MONTE S.A.	52	Ayuntamiento de Boadilla	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA MUNICIPAL VIVIENDA Y SUELO S.A. (DIRECCIÓN EC.-GESTIÓN COBRO)	6897	Ayuntamiento de Madrid	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+EMPRESA NACIONAL MARCASA	62	Mercasa	España	España	Empresas públicas o administraciones	Administración central	Centros comerciales y mercados	NA	Madrid	Sociedad Pública
+EMSULE, S.A.	281	Ayuntamiento de Leganés	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
 ENTRECAMPOS CUATRO, SOCIMI, S.A.	99	Entrecampos Cuatro Socimi SA	España	España	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 EREMUBUS INVESTMENTS, S.A.	466	SMT Europe Cooperatief UA	Países Bajos	Países Bajos 	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 ESCARO PATRIMONIAL, S.L.U.	60	Escaro Patrimonial SLU	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -511,7 +511,7 @@ INMOUNO RESIDENCIAL, S.L. UNIPERSONAL	87	Inmunio Residencial SL	España	España	
 INMUEBLES FASER S.L.	60	Inmuebles Faser SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 INMUEBLES MARTINEZ POMARES S.L.	56	Inmuebles Martínez Pomares SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 INMUEBLES REGINA, S.A.	60	Inmuebles Regina SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-INSTITUTO MUNICIPAL DE SUELO MÓSTOLES	81	Ayuntamiento de Móstoles	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
+INSTITUTO MUNICIPAL DE SUELO MÓSTOLES	81	Ayuntamiento de Móstoles	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
 INVERSA PRIME SOCIMI S.A.	128	Almagro Capital	España	España	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 INVERSIONES 2000 TRES S.L.	83	Inversiones 2000 Tres SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 INVERSIONES DOALCA SOCIMI, S.A.	64	Inversiones Doalca Socimi	España	España	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -563,7 +563,7 @@ MAPFRE VIDA, S.A.	115	Mapfre	España	España	Empresa privada	NA	Seguros	NA	Madri
 MATRITENSE REAL ESTATE SA	88	Matritense Real Estate Socimi SA	España	España	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 MENLOGICA, S.L.	86	Menlogica SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 MERCADO DE LA CONSTITUCION, S.A. (MERCONSA)	79	Mercado de la Constitución SA	España	España	Empresa privada	NA	Centros comerciales y mercados	NA	Madrid	Sociedad Privada
-MERCAMADRID, S.A.	103	Ayuntamiento de Madrid	España	España	Empresas públicas o administraciones	Ayuntamiento	Centros comerciales y mercados	NA	Madrid	Sociedad Privada
+MERCAMADRID, S.A.	103	Ayuntamiento de Madrid	España	España	Empresas públicas o administraciones	Ayuntamiento	Centros comerciales y mercados	NA	Madrid	Sociedad Pública
 MERLIN PROPERTIES SOCIMI, S.A.	455	Merlin Properties Socimi SA	España	España	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 MERLIN RETAIL SL	91	Merlin Properties Socimi SA	España	España	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 MIMBRERAS 3, S.A.	51	Mimbreras 3 SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -584,7 +584,7 @@ NESCAM 2006 SL	67	Renta Corporación	España	España	Socimi	NA	Inmobiliaria	NA	M
 NUCIVA INVESTMENTS, S.L.U.	57	Ares Management Corporation	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Madrid	Sociedad Privada
 NUEVA URBANIZADORA RESIDENCIAL SA.	72	Grupo Inmobiliario Gomendio SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 O'DONNELL INVERSIONES, S.L.	132	O'Donell Inversiones	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-OBRAS DE MADRID. GESTION DE OBRAS E INFRAESTRUCTURAS, S.A.	104	Comunidad de Madrid	España	España	Empresas públicas o administraciones	Comunidad autónoma	Otros	Obras públicas	Madrid	Sociedad Privada
+OBRAS DE MADRID. GESTION DE OBRAS E INFRAESTRUCTURAS, S.A.	104	Comunidad de Madrid	España	España	Empresas públicas o administraciones	Comunidad autónoma	Otros	Obras públicas	Madrid	Sociedad Pública
 OBRAS Y VIAS,S.A.	312	Obras y Vías SA	España	España	Empresa privada	NA	Construcción	NA	Madrid	Sociedad Privada
 OCENDA, S.L.	155	Ocenda SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 ORDEN HOSPITALARIA DE SAN JUAN DE DIOS	328	Orden Hospitalaria de San Juan de Dios	España	España	Entidades religiosas	NA	Entidades religiosas	NA	Madrid	Sociedad Privada
@@ -594,8 +594,8 @@ PALACIO DE LOS RECREOS, S.A.	76	Palacio de los Recreos SA	España	España	Empres
 PARENTA S.L.	57	Parenta SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 PARQUE COMERCIAL GUADALHORCE, S.L.	113	Kennedy Wilson	Estados Unidos	Luxemburgo	Soparfi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 PASEO COMERCIAL CARLOS III, S.A.	126	Paseo Comercial Carlos III SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-PATRIMONIO MUNICIPAL MAJADAHONDA,SA	271	Ayuntamiento de Majadahonda	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Privada
-PATRIMONIO NACIONAL	123	Patrimonio Nacional	España	España	Empresas públicas o administraciones	Administración central	Otros	Patrimonio	Madrid	Sociedad Privada
+PATRIMONIO MUNICIPAL MAJADAHONDA,SA	271	Ayuntamiento de Majadahonda	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Madrid	Sociedad Pública
+PATRIMONIO NACIONAL	123	Patrimonio Nacional	España	España	Empresas públicas o administraciones	Administración central	Otros	Patrimonio	Madrid	Sociedad Pública
 PEREL, S.L.	120	Perel SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 PERLADO PEREZ DE VALLUERCA HNOS, C.B.	89	Perlado Pérez de Valluerca Hnos C.B.	España	España	Comunidad de bienes, de propietarios y herencias yacentes	NA	Comunidad de bienes, de propietarios y herencias yacentes	NA	Madrid	Sociedad Privada
 PINARCAM VIVIENDA JOVEN SOCIMI, S.L.U.	67	Ares Management Corporation	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Madrid	Sociedad Privada
@@ -631,7 +631,7 @@ QUID PRO QUO ALQUILER SEGURO SOCIMI, S.A.	126	Explotación de Negocios y activid
 REAL E ILUSTRE CONGREGACION DEL SANTÍSIMO SACRAMENTO Y SANTO ENTIERRO	84	Sanen Mutua	España	España	Empresa privada	NA	Seguros	NA	Madrid	Sociedad Privada
 REALIA	142	FCC	España	España	Empresa privada	NA	Otros	Obras públicas	Madrid	Sociedad Privada
 REGATO, S. L.,	59	Regato SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-RENFE VIAJEROS, S.A.	113	Renfe	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras ferroviarias	Madrid	Sociedad Privada
+RENFE VIAJEROS, S.A.	113	Renfe	España	España	Empresas públicas o administraciones	Administración central	Otros	Infraestructuras ferroviarias	Madrid	Sociedad Pública
 RENTA GESTION AUXILIAR 2009, A. I. E.,	265	Renta Gestión Auxiliar 2009	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 RENTA Y SERVICIOS C.B.	60	Renta y Servicios C.B.	España	España	Comunidad de bienes, de propietarios y herencias yacentes	NA	Comunidad de bienes, de propietarios y herencias yacentes	NA	Madrid	Sociedad Privada
 RENTUR, RENTA URBANA S.L.	364	Rentur Patrimonial	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -654,7 +654,7 @@ SEAN ALTAVIRA, S.L.	97	Sean Altavira SL	España	España	Empresa privada	NA	Inmob
 SERRANO 61 DESARROLLO SOCIMI S.A.	54	Banca March	España	España	Socimi	NA	Entidades financieras	Banca	Madrid	Sociedad Privada
 SIJO HERAC, S.A.	82	Sijo Herac SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 SOCIEDAD CONCESIONARIA R.U. VICALVARO S.L.	209	Sociedad Concesionaria R.U. Vicálvaro	España	España	Empresa privada	NA	Inmobiliaria	Residencias universitarias	Madrid	Sociedad Privada
-SOCIEDAD GESTION ACTIVOS PROCEDENTES REESTRUCTURACION BANCARIA. SAREB	1132	Sareb	España	España	Empresas públicas o administraciones	Administración central	Entidades financieras	Sociedad de gestión de activos	Madrid	Sociedad Privada
+SOCIEDAD GESTION ACTIVOS PROCEDENTES REESTRUCTURACION BANCARIA. SAREB	1132	Sareb	España	España	Empresas públicas o administraciones	Administración central	Entidades financieras	Sociedad de gestión de activos	Madrid	Sociedad Pública
 SOCIEDAD INMOBILIARIA LAS BALLINAS, S.L.	64	Sociedad Inmobiliaria Las Balleas SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 SOFILA INVESTMENTS 2018, S.L.U.	63	Blackstone	Estados Unidos	Luxemburgo	Soparfi	NA	Entidades financieras	Fondos de inversión	Madrid	Sociedad Privada
 SOLPRIGA, S.L	55	Solpriga SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -668,7 +668,7 @@ TELEFONICA, S.A.(S.G.Patrimonio y distrito C)	154	Telefónica	España	España	Em
 TEMPORE PROPERTIES SOCIMI, S.A.	835	TPG	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Madrid	Sociedad Privada
 TERRENOS , INDUSTRIAS Y ALMACENES S.A	359	Terrenos, industrias y almacenes SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 "TERRENOS Y NAVES, S.A. "" TENASA"""	71	Grupo Arenas	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
-TESORERIA GENERAL SEGURIDAD SOCIAL	82	Tesorería General Seguridad Social	España	España	Empresas públicas o administraciones	Administración central	Otros	Seguridad Social	Madrid	Sociedad Privada
+TESORERIA GENERAL SEGURIDAD SOCIAL	82	Tesorería General Seguridad Social	España	España	Empresas públicas o administraciones	Administración central	Otros	Seguridad Social	Madrid	Sociedad Pública
 TESTA RESIDENCIAL SOCIMI, S.A.	5821	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Madrid	Sociedad Privada
 TITOMON INVEST, S.L.	55	Titomon Invest SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 TORRE ESPACIO CASTELLANA, S.A.U.	50	Megaworld Corporation	Filipinas	Singapur	Socimi	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
@@ -702,11 +702,11 @@ VIZADI S.A.	57	Anmavi Asset Management SL	España	España	Empresa privada	NA	Ent
 YEGRO SEGOVIA EUGENIO, Y OTROS C.B.	50	Yegro Segovia Eugenio y otros CB	España	España	Comunidad de bienes, de propietarios y herencias yacentes	NA	Comunidad de bienes, de propietarios y herencias yacentes	NA	Madrid	Sociedad Privada
 ZAPATA, S.A.	69	Zapata SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Madrid	Sociedad Privada
 ZAZO HERMANOS, C.B.	57	Zazo Hermanos C.B.	España	España	Comunidad de bienes, de propietarios y herencias yacentes	NA	Comunidad de bienes, de propietarios y herencias yacentes	NA	Madrid	Sociedad Privada
-AGENCIA DE L'HABITATGE DE CATALUNYA	5435	Generalitat de Catalunya	España	España	Empresas públicas o administraciones	CCAA	Parque público	NA	Cataluña	Sociedad Privada
-INCASÒL	5044	Generalitat de Catalunya	España	España	Empresas públicas o administraciones	CCAA	Parque público	NA	Cataluña	Sociedad Privada
-INSTITUT MUNICIPAL HABITATGE I REHAB. DE BARCELONA	4495	Ajuntament de Barcelona	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+AGENCIA DE L'HABITATGE DE CATALUNYA	5435	Generalitat de Catalunya	España	España	Empresas públicas o administraciones	CCAA	Parque público	NA	Cataluña	Sociedad Pública
+INCASÒL	5044	Generalitat de Catalunya	España	España	Empresas públicas o administraciones	CCAA	Parque público	NA	Cataluña	Sociedad Pública
+INSTITUT MUNICIPAL HABITATGE I REHAB. DE BARCELONA	4495	Ajuntament de Barcelona	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 BUILDINGCENTER SAU	2059	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
-SAREB SA	2045	Sareb	España	España	Empresas públicas o administraciones	Administración central	Entidades financieras	Sociedad de gestión de activos	Cataluña	Sociedad Privada
+SAREB SA	2045	Sareb	España	España	Empresas públicas o administraciones	Administración central	Entidades financieras	Sociedad de gestión de activos	Cataluña	Sociedad Pública
 DIVARIAN PROPIEDAD SA	1868	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 BANCO BILBAO VIZCAYA ARGENTARIA S.A.	1757	BBVA	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
 VIVIENDA ASEQUIBLE ARRENDAMIENTO Y SERVICIOS SLU	1667	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
@@ -714,42 +714,42 @@ BANCO SABADELL SA	1625	Banco Sabadell	España	España	Empresa privada	NA	Entidad
 CEVASA, PATRIMONIO EN ALQUILER SL	1602	Compañía Española de Viviendas en Alquiler SA (Cevasa)	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 BUDMAC INVESTMENTS II, S.L.,	1064	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 INMUEBLES EN RENTA, S.A.	1027	Inmuebles en Renta SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-VIMUSA, HABITATGES MUNICIPALS DE SABADELL S.A.	1015	Ajuntament de Sabadell	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+VIMUSA, HABITATGES MUNICIPALS DE SABADELL S.A.	1015	Ajuntament de Sabadell	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 INDICESA L'ILLA SL	923	Indicesa L'Illa SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 BCN HOUSING PLACE SL	893	Azora	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 LIVINGCENTER ACTIVOS INMOBILIARIOS SAU	889	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
 NESTAR RESIDENCIAL SII SA	749	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-SOCIETAT MUNICIPAL D'HABITATGE DE TERRASSA SA	745	Ajuntament de Terrassa	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+SOCIETAT MUNICIPAL D'HABITATGE DE TERRASSA SA	745	Ajuntament de Terrassa	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 VIVENIO RESIDENCIAL SOCIMI SA	722	Renta Corporación	España	España	Socimi	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SOCIETAT DE ARRENDAMENTS 2007 NN SLU	693	Núñez i Navarro	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 ONIX RENTA SLU	636	Grupo Icyesa	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SBD LLOGUER SOCIAL, SA	589	Compañía Española de Viviendas en Alquiler SA (Cevasa)	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 BUDMAC INVESTMENTS S.L.	572	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 PROMOCIONES LLADERO SA	548	Goldman Sachs	Estados Unidos	Delaware	Empresa privada	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
-SPM PROMOCIONS MUNICIPALS DE SANT CUGAT DEL VALLÈS	508	Ajuntament San Cugat del Vallés	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+SPM PROMOCIONS MUNICIPALS DE SANT CUGAT DEL VALLÈS	508	Ajuntament San Cugat del Vallés	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 TESTA RESIDENCIAL SOCIMI SA	460	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 FUNDACIO PRIVADA FOMENT DE L'HABITATGE SOCIAL	426	Fundació Habitatge Social	España	España	Fundaciones	NA	Fundaciones	NA	Cataluña	Sociedad Privada
-REGESA	385	Área Metropolitana de Barcelona	España	España	Empresas públicas o administraciones	Metropolitana	Parque público	NA	Cataluña	Sociedad Privada
+REGESA	385	Área Metropolitana de Barcelona	España	España	Empresas públicas o administraciones	Metropolitana	Parque público	NA	Cataluña	Sociedad Pública
 ALCOTAS INMOBILIARIA,S.L.U	359	Grupo Corporativo Landon	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 BANCO SANTANDER SA	322	Banco Santander	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
 PROMONTORIA MACC MARINA RE SAU	315	Cerberus	Estados Unidos	Irlanda	Empresa privada	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 FAMÍLIA I BENESTAR SOCIAL, FUND. PRIVADA	315	Fundació Família i Benestar Social	España	España	Fundaciones	NA	Fundaciones	NA	Cataluña	Sociedad Privada
-AJUNTAMENT DE BARCELONA	314	Ajuntament de Barcelona	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+AJUNTAMENT DE BARCELONA	314	Ajuntament de Barcelona	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 PROMONTORIA COLISEUM RESIDENTIAL SLU	310	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 FUNDACIÓ PRIVADA HOSPITAL DE LA SANTA CREU I SANT PAU	300	Fundación Privada Hospital de la Santa Creu i Sant Pau	España	España	Fundaciones	NA	Fundaciones	NA	Cataluña	Sociedad Privada
 COLON VIVIENDAS S.I.I. SA	297	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SAU CRITERIA CAIXA	295	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
 VISOREN RENTA SAU	274	Visoren	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 INMOBILIARIA IRASA SA	270	Inmobiliaria Irasa SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-PROMOCIONS URBANITIQUES DE MATARO SA	257	Ajuntament de Mataró	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+PROMOCIONS URBANITIQUES DE MATARO SA	257	Ajuntament de Mataró	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 SABADELL PATRIMONIO INMOBILIARIO SOCIMI SA	256	Banco Sabadell	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
-CONSORCI DEL BARRI DE LA MINA	252	Generalitat de Catalunya	España	España	Empresas públicas o administraciones	CCAA	Parque público	NA	Cataluña	Sociedad Privada
+CONSORCI DEL BARRI DE LA MINA	252	Generalitat de Catalunya	España	España	Empresas públicas o administraciones	CCAA	Parque público	NA	Cataluña	Sociedad Pública
 PAC SL	248	Pac SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 GESCAT VIVENDES EN COMERCIALITZACIO SL	241	BBVA	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
-FOMENT DE LA REHABILITACIÓ URBANA DE MANRESA, S.A.	240	Ajuntament de Manresa	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+FOMENT DE LA REHABILITACIÓ URBANA DE MANRESA, S.A.	240	Ajuntament de Manresa	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 FUNDACIÓ PRIVADA NOU LLOC HABITATGE SOCIAL	237	Fundació Nou Lloc Habitatge Social	España	España	Fundaciones	NA	Fundaciones	NA	Cataluña	Sociedad Privada
 UNIÓN INMOBILIARIA, S.A.	234	Unión Inmobiliaria SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-GRAMEPARK SA	232	Ajuntament de Santa Coloma de Gramanet	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+GRAMEPARK SA	232	Ajuntament de Santa Coloma de Gramanet	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 INMOBILIARIA GALLARDO SL	224	Inmobiliaria Gallardo SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 CIA GRAL DE FOM INMOBILIARIO SL	203	Compañia General de Fomento Inmobiliario	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SANTIVERI LLOGUER SLU	200	Llumifels SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -758,10 +758,10 @@ INMOBILIARIA SAJU SA	195	Inmobiliaria Saju SA	España	España	Empresa privada	NA
 UNIÓN DE CRÉDITOS INMOBILIARIOS,S.A.	192	Banco Santander	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
 GRAUCLA SL	192	Graucla SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 MARBORI SL	190	Marbori SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-IMPSOL	187	Área Metropolitana de Barcelona	España	España	Empresas públicas o administraciones	Metropolitana	Parque público	NA	Cataluña	Sociedad Privada
+IMPSOL	187	Área Metropolitana de Barcelona	España	España	Empresas públicas o administraciones	Metropolitana	Parque público	NA	Cataluña	Sociedad Pública
 FACERAS SLU	177	Faceras SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 LANUSEI INVESTMENTS S.L.	176	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
-ADIF	175	AGE	España	España	Empresas públicas o administraciones	NA	Otros	NA	Cataluña	Sociedad Privada
+ADIF	175	AGE	España	España	Empresas públicas o administraciones	NA	Otros	NA	Cataluña	Sociedad Pública
 COMPLEJO INMOBILIARIO, S.A.U.	175	Melga Finance SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 EDFICACIONES ADRIANO S.A.	172	Edificaciones Adriano SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 INMOBILIARIA PUIGCARBO SA	171	Inmobiliaria Puigcarbo SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -769,15 +769,15 @@ MONTSERRAT, S.L.	170	Montserrat SL	España	España	Empresa privada	NA	Inmobiliar
 CONSTRUCCIONES INMOB.PETRARCA SL	167	Construcciones Inmobiliarias Petrarca SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 BALMA SL	166	Balma SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SABADELL REAL ESTATE DEVELOPMENT SL	154	Banco Sabadell	España	España	Empresa privada	NA	Entidades financieras	Banca	Cataluña	Sociedad Privada
-APARCAMIENTOS DESPI SA	153	Ajuntament de Sant Joan Despí	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+APARCAMIENTOS DESPI SA	153	Ajuntament de Sant Joan Despí	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 INMOBILIARIA MEDITERRANIA DE VIVIENDAS EN ALQUILER	152	Inmobiliaria Mediterránea de Viviendas en Alquiler SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 RIUCLA SL	152	Riucla SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SOL EDIFICAT PONENT SL	152	Sol Edificat Ponent SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 PROMONTORIA MACC RE SOCIMI SA	151	Cerberus	Estados Unidos	Irlanda	Socimi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
-CONSORCI SOCIOSANITARI D'IGUALADA	149	Ajuntament d'Igualada	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+CONSORCI SOCIOSANITARI D'IGUALADA	149	Ajuntament d'Igualada	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 VINAPE S L	149	Vinape SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 YBN INVERSIONES SL	145	YBN Inversiones SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-AJUNTAMENT DE L’HOSPITALET DE LLOBREGAT	143	Ajuntament de L'Hospitalet de Llobregat	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+AJUNTAMENT DE L’HOSPITALET DE LLOBREGAT	143	Ajuntament de L'Hospitalet de Llobregat	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 ADVERO PROPERTIES SOCIMI, S.A	142	Adequita Capital Ltd	Reino Unido	España	Socimi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 ALCROS SL	142	Alcros SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SARO 2015 SL	142	Saro 2015 SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -790,7 +790,7 @@ CARLANNA SL	135	Carlanna SL	España	España	Empresa privada	NA	Inmobiliaria	NA	C
 CORAL HOMES SLU	135	Lone Star	Estados Unidos	Luxemburgo	Soparfi	NA	Entidades financieras	Fondos de inversión	Cataluña	Sociedad Privada
 GITSA	132	Gitsa	España	España	Empresa privada	NA	Entidades financieras	Intermediarios financieros	Cataluña	Sociedad Privada
 BASIDELTA SL	131	Basidelta SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-PROMUNSA SA	130	Ajuntament Sant Just Desvent	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+PROMUNSA SA	130	Ajuntament Sant Just Desvent	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 INMOVILIARIA VILADOMAT SA	130	Inmoviliaria Viladomat SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 S.A. DE PROPIEDAD INMOBILIARIA	130	SA de Propiedad Inmobiliaria	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 IMSA HABITATGE SOCIAL S.L.	129	Imsa Habitatge Social SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -827,7 +827,7 @@ INMOBILIARIA IASA SL	97	Inmobiliaria Iasa SL	España	España	Empresa privada	NA	
 LM JORBA FINQUES SL	97	LM Jorba Finques SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 INVERSIONES NUPROSA SL	97	Núñez i Navarro	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 ACMAR, S.L.	96	Acmar SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-PROMOCIONS URBANES DE RUBÍ, SA	96	Ajuntament de Rubí	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+PROMOCIONS URBANES DE RUBÍ, SA	96	Ajuntament de Rubí	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 INMOBILIARIA HUCART	96	Inmobiliaria Hucart	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 FUENTESCU, S.L.	95	Fuentescu SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 SALAS JAURENA SL	95	Salas Jaurena SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -896,7 +896,7 @@ FINCAS ARMENGOL SCP	73	Fincas Armengol SCP	España	España	Empresa privada	NA	In
 FREMAN SL	73	Freman SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 PAULISTANO SL	73	Paulistano SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 UNION PROMOTORA DE INVERSIONES SL	73	Unión Promotora de Inversiones SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-PROCORNELLA SA	72	Ajuntament de Cornellà de Llobregat	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+PROCORNELLA SA	72	Ajuntament de Cornellà de Llobregat	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 EDIFICIOS Y ESPECTACULOS S.L	72	Edificios y Espectáculos SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 FILEVA SL	72	Fileva SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 ARENASAN SL	71	Arenasan SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -1001,7 +1001,7 @@ INMOBILIARIA NORDESTE DE CONSTRUCCIONES, S.A.	54	Inmobiliaria Nordeste de Constr
 NMB IMMOBLES 2022, S.L.	54	NMB Inmobles 2022	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 TAXACIONS I ENGINYERIA ORDEIX SL	54	Taxacions i Enginyeria Ordeix SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 ARNEGAS SL	53	Arnegas SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-COMU SANT QUIRZE DEL VALLES SL	53	Ajuntament de Sant Quirze del Vallès	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+COMU SANT QUIRZE DEL VALLES SL	53	Ajuntament de Sant Quirze del Vallès	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 FUNDACIÓ PRIVADA HÀBITAT3 TERCER SECTOR SOCIAL	53	Fundació Hàbitat3	España	España	Fundaciones	NA	Fundaciones	NA	Cataluña	Sociedad Privada
 GAULES S.L.	53	Gaules SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 GENEROS DE PUNTO I ODENA SL	53	Géneros de Punto i Odena SL	España	España	Empresa privada	NA	Otros	NA	Cataluña	Sociedad Privada
@@ -1015,7 +1015,7 @@ INMOBILIARIA GIMENO ESTEVA SL	52	Inmobiliaria Gimeno Esteva SL	España	España	E
 INMOBILIARIA JUMARROS SA	52	Inmobiliaria Jumarros SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 INMOBILIARIA RIBASMAR S.A	52	Inmobiliaria Ribasmar SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 LANOVA CREU COBERTA SL	52	La Nova Creu Coberta SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-AJUNTAMENT DE SANTA COLOMA DE GRAMENET	51	Ajuntament de Santa Coloma de Gramanet	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Privada
+AJUNTAMENT DE SANTA COLOMA DE GRAMENET	51	Ajuntament de Santa Coloma de Gramanet	España	España	Empresas públicas o administraciones	Ayuntamiento	Parque público	NA	Cataluña	Sociedad Pública
 CENTRE FINANCER GIRONA-BARNA, S.L.	51	Centre Financer Girona-Barna SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 CLATENA SL	51	Clatena SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 EDIPAU 8 SL	51	Edipau 8 SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
@@ -1023,20 +1023,20 @@ ESTACIÓN SERVICIO HORT GRAN S.A	51	Estación Servicio Hort Gran SA	España	Espa
 FUNDACIÓ BENEFICO PRIVADA BARNOLA VALLRIBERA, SANT	51	Fundació Barnola-Vallribera, Sant Josep	España	España	Fundaciones	NA	Fundaciones	NA	Cataluña	Sociedad Privada
 IMISL	51	Inversiones Mobiliarias e Inmobiliarias SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
 INMOBILIARIA LUMA SL	51	Inmobiliaria Luma SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Cataluña	Sociedad Privada
-INSTITUTO VALENCIANO DE VIVIENDA SA	3247	Generalitat Valenciana	España	España	Empresa pública	CCAA	Parque público	NA	Valencia	Sociedad Privada
-ENTIDAD VALENCIANA DE VIVIENDA Y SUELO	2364	Generalitat Valenciana	España	España	Empresa pública	CCAA	Parque público	NA	Valencia	Sociedad Privada
+INSTITUTO VALENCIANO DE VIVIENDA SA	3247	Generalitat Valenciana	España	España	Empresa pública	CCAA	Parque público	NA	Valencia	Sociedad Pública
+ENTIDAD VALENCIANA DE VIVIENDA Y SUELO	2364	Generalitat Valenciana	España	España	Empresa pública	CCAA	Parque público	NA	Valencia	Sociedad Pública
 BUILDINGCENTER	2010	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Valencia	Sociedad Privada
 BANCO SABADELL, S.A.	1295	Banco Sabadell	España	España	Empresa privada	NA	Entidades financieras	Banca	Valencia	Sociedad Privada
 NESTAR RESIDENCIAL, S.I.I.	971	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliarias	NA	Valencia	Sociedad Privada
 PROMONTORIA COLISEUM RESIDENTIAL, SLU	784	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Valencia	Sociedad Privada
-SOCIEDAD DE GESTION DE ACTIVOS (SAREB)	732	Sareb	España	España	Empresa pública	Administración central	Entidades financieras	Sociedad de gestión de activos	Valencia	Sociedad Privada
+SOCIEDAD DE GESTION DE ACTIVOS (SAREB)	732	Sareb	España	España	Empresa pública	Administración central	Entidades financieras	Sociedad de gestión de activos	Valencia	Sociedad Pública
 TEMPORE PROPERTIES SOCIMI, S.A.	496	TPG	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Valencia	Sociedad Privada
 TESTA RESIDENCIAL SOCIMI, S.A.	444	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Valencia	Sociedad Privada
-PATRONATO DE LA VIVIENDA DE ALICANTE	340	Ayuntamiento de Alicante	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Valencia	Sociedad Privada
+PATRONATO DE LA VIVIENDA DE ALICANTE	340	Ayuntamiento de Alicante	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Valencia	Sociedad Pública
 URBIMETRO, S.L.	323	Grupo Crein Valencia SL	España	España	Empresa privada	NA	Inmobiliarias	NA	Valencia	Sociedad Privada
 LURI 6, S.A.	269	Banco Santander	España	España	Empresa privada	NA	Entidades financieras	Banca	Valencia	Sociedad Privada
 RKS REAL ESTATE, S.C.S.	240	RKS Management	Luxemburgo	Luxemburgo	Soparfi	NA	Inmobiliarias	NA	Valencia	Sociedad Privada
-SA MUNICIPAL DE ACT. URBANAS DE VALENCIA	231	Ayuntamiento de Valencia	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Valencia	Sociedad Privada
+SA MUNICIPAL DE ACT. URBANAS DE VALENCIA	231	Ayuntamiento de Valencia	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Valencia	Sociedad Pública
 CRITERIA CAIXA, S.A.U.	170	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Valencia	Sociedad Privada
 INVERSIONES INMOBILIARIAS LIMARA, S.L	165	Blackstone	Estados Unidos	Luxemburgo	Soparfi	NA	Entidades financieras	Fondos de inversión	Valencia	Sociedad Privada
 INMO CRITERIA ARRENDAMIENTO, S.L.U.	158	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Valencia	Sociedad Privada
@@ -1120,7 +1120,7 @@ INMOBILIARIA DE PUENTES Y CALZADAS,S.L.	71	"China Communications Construction
 Company Limited"	China	España	Empresa privada	NA	Construcción	NA	Galicia	Sociedad Privada
 INMOSUPA SOCIMI SA	72	Fundoland SL	España	España	Socimi	NA	Otros	NA	Galicia	Sociedad Privada
 ANTOBECO INVERSIONES INMOBILIARIAS SL	74	Antobeco SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
-SAREB	74	Sareb	España	España	Empresa o administración pública	AGE	Entidades financieras	Sareb	Galicia	Sociedad Privada
+SAREB	74	Sareb	España	España	Empresa o administración pública	AGE	Entidades financieras	Sareb	Galicia	Sociedad Pública
 FARELLAS FEANS S.L.	78	Farella Feans SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
 BUILDINGCENTER S.A.U.	80	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Galicia	Sociedad Privada
 DIOCESE TUI-VIGO	81	Diócesis Tui-Vigo	España	España	Entidades religiosas	NA	Entidades religiosas	NA	Galicia	Sociedad Privada
@@ -1129,7 +1129,7 @@ ELVIÑA RENTA, S.L	90	Elviña Renta SL	España	España	Empresa privada	NA	Inmobi
 GOLDEKY, S.L.	93	Goldkey SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
 ADRIANO CARE SPV1, S.L.U.b.	106	Azora Capital	España	España	Socimi	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
 LAZORA SA SII	108	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
-Concello de A Coruña	113	Concello de A Coruña	España	España	Empresa o administración pública	Ayuntamiento	Parque público	NA	Galicia	Sociedad Privada
+Concello de A Coruña	113	Concello de A Coruña	España	España	Empresa o administración pública	Ayuntamiento	Parque público	NA	Galicia	Sociedad Pública
 INMOBILIARIA SAN FERNANDO S.A	114	Inmobiliaria San Fernando	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
 SANTIAGO SUR ALQUILERS SL	120	Provive SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
 VIRIAMARCA SL	120	Viriamarca SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
@@ -1141,11 +1141,11 @@ ANDRES LOPEZ BLANCO SL	232	Andrés López Blanco SL	España	España	Empresa priv
 AVANTE ELECTA,SL.	304	Avante Electa, S.L.	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
 TESTA RESIDENCIAL SOCIMI SA	337	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Galicia	Sociedad Privada
 FINCAS LAVANDERIA SL	398	Fincas Lavandeira	España	España	Empresa privada	NA	Inmobiliaria	NA	Galicia	Sociedad Privada
-Instituto Galego da Vivenda e Solo	3724	Xunta de Galicia	España	España	Empresa o administración pública	CCAA	Parque público	NA	Galicia	Sociedad Privada
-IBAVI	1981	Govern de Illes Balears	España	España	Empresa pública	CCAA	Parque público	NA	Baleares	Sociedad Privada
+Instituto Galego da Vivenda e Solo	3724	Xunta de Galicia	España	España	Empresa o administración pública	CCAA	Parque público	NA	Galicia	Sociedad Pública
+IBAVI	1981	Govern de Illes Balears	España	España	Empresa pública	CCAA	Parque público	NA	Baleares	Sociedad Pública
 TESTA RESIDENCIAL SOCIMI, S.A.	961	Blackstone	Estados Unidos	Luxemburgo	Socimi	NA	Entidades financieras	Fondos de inversión	Baleares	Sociedad Privada
 BUILDINGCENTER, SAU	506	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Baleares	Sociedad Privada
-AJUNTAMENT DE PALMA (PMHRIBA)	277	Ayuntamiento de Palma	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Baleares	Sociedad Privada
+AJUNTAMENT DE PALMA (PMHRIBA)	277	Ayuntamiento de Palma	España	España	Empresa pública	Ayuntamiento	Parque público	NA	Baleares	Sociedad Pública
 DOMUS VIVENDI CITY GMBH & CO KG	114	Domus Vivendi City GMBH & Co Kg	Alemania	Alemania	Empresa privada	NA	Inmobiliaria	NA	Baleares	Sociedad Privada
 ZAGUER INMOPROM, S.L	107	Zaguer Inmoprom SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Baleares	Sociedad Privada
 BANCO DE SABADELL, S.A.	103	Banco Sabadell	España	España	Empresa privada	NA	Entidades financieras	Banca	Baleares	Sociedad Privada
@@ -1157,10 +1157,10 @@ GLOBAL LICATA S.A.	64	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	E
 DIVARIAN PROPIEDAD, S.A	61	Cerberus	Estados Unidos	Países Bajos	Empresa privada	NA	Entidades financieras	Fondos de inversión	Baleares	Sociedad Privada
 ESMENT	56	Esment	España	España	Fundación	NA	Fundaciones	NA	Baleares	Sociedad Privada
 BANKIA S.A	52	CaixaBank	España	España	Empresa privada	NA	Entidades financieras	Banca	Baleares	Sociedad Privada
-Gobierno Vasco	3767	Gobierno Vasco	España	España	Empresa pública y administraciones	CCAA	Parque público	NA	Pais vasco	Sociedad Privada
-Oal Viviendas Municipales de Bilbao	3349	Ayuntamiento de Bilbao	España	España	Empresa pública y administraciones	Ayuntamiento	Parque público	NA	Pais vasco	Sociedad Privada
-Alokabide SA	2964	Gobierno Vasco	España	España	Empresa pública y administraciones	CCAA	Parque público	NA	Pais vasco	Sociedad Privada
-Entidad Pública Empresarial de Vivienda - Donostiako Etxegintza	869	Ayuntamiento de Donostia	España	España	Empresa pública y administraciones	Ayuntamiento	Parque público	NA	Pais vasco	Sociedad Privada
+Gobierno Vasco	3767	Gobierno Vasco	España	España	Empresa pública y administraciones	CCAA	Parque público	NA	Pais vasco	Sociedad Pública
+Oal Viviendas Municipales de Bilbao	3349	Ayuntamiento de Bilbao	España	España	Empresa pública y administraciones	Ayuntamiento	Parque público	NA	Pais vasco	Sociedad Pública
+Alokabide SA	2964	Gobierno Vasco	España	España	Empresa pública y administraciones	CCAA	Parque público	NA	Pais vasco	Sociedad Pública
+Entidad Pública Empresarial de Vivienda - Donostiako Etxegintza	869	Ayuntamiento de Donostia	España	España	Empresa pública y administraciones	Ayuntamiento	Parque público	NA	Pais vasco	Sociedad Pública
 Vitalquiler SL	423	Kutxabank	España	España	Empresa privada	NA	Entidades financieras	Banca	Pais vasco	Sociedad Privada
 Basconia SA	212	Mintegui Industrias del Camión S.A.	España	España	Empresa privada	NA	Automoción	NA	Pais vasco	Sociedad Privada
 SA Inmobiliaria Vascongada	163	CBRE	Estados Unidos	España	Empresa privada	NA	Inmobiliaria	NA	Pais vasco	Sociedad Privada
@@ -1170,13 +1170,13 @@ Benta-Berri UTE	153	Blackstone	Estados Unidos	España	Socimi	NA	Entidades financ
 Aurrera SA	148	Aurrera SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Pais vasco	Sociedad Privada
 Comunidad de Propietarios Zumalacarregui 36	139	Comunidad de Propietarios Zumalacarregui 36	España	España	Comunidad de propietarios	NA	Comunidad de propietarios	NA	Pais vasco	Sociedad Privada
 Organización y Programación de Inversiones SA	114	Organización y Programación de Inversiones SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Pais vasco	Sociedad Privada
-Vivienda y Suelo de Euskadi SA-Euskadiko Etxebizitza eta Lurra EA	88	Gobierno Vasco	España	España	Empresa pública y administraciones	CCAA	Parque público	NA	Pais vasco	Sociedad Privada
+Vivienda y Suelo de Euskadi SA-Euskadiko Etxebizitza eta Lurra EA	88	Gobierno Vasco	España	España	Empresa pública y administraciones	CCAA	Parque público	NA	Pais vasco	Sociedad Pública
 Tubos Forjados SA	80	Tubos Reunidos	España	España	Empresa privada	NA	Metal	NA	Pais vasco	Sociedad Privada
-Junta Obras del Puerto de Bilbao	72	Ministerio de Fomento	España	España	Empresa pública y administraciones	NA	Otros	NA	Pais vasco	Sociedad Privada
+Junta Obras del Puerto de Bilbao	72	Ministerio de Fomento	España	España	Empresa pública y administraciones	NA	Otros	NA	Pais vasco	Sociedad Pública
 Echevarria SA	63	Sidenor	España	España	Empresa privada	NA	Metal	NA	Pais vasco	Sociedad Privada
 Inmobiliaria Tres Coronas SA	63	Inmobiliaria Tres Coronas SA	España	España	Empresa privada	NA	Inmobiliaria	NA	Pais vasco	Sociedad Privada
 Construcciones y Promociones Artasamina SL	60	Construcciones y Promociones Artasamina SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Pais vasco	Sociedad Privada
-Azpiegiturak SAMP	59	Diputación Foral de Bizkaia	España	España	Empresa pública y administraciones	Diputación	Parque público	NA	Pais vasco	Sociedad Privada
+Azpiegiturak SAMP	59	Diputación Foral de Bizkaia	España	España	Empresa pública y administraciones	Diputación	Parque público	NA	Pais vasco	Sociedad Pública
 Indumetal	59	Indumetal	España	España	Empresa privada	NA	Otros	NA	Pais vasco	Sociedad Privada
 PBP Gestión de Arrendamientos y Alquileres SL	52	PBP Gestión de Arrendamientos y Alquileres SL	España	España	Empresa privada	NA	Inmobiliaria	NA	Pais vasco	Sociedad Privada
 Banco Santander	143	Banco Santander	España	España	Empresa privada		Entidades financieras	Banca	Canarias	Sociedad Privada
