@@ -1,1 +1,15 @@
 articulos/
+web/content/
+web/config/
+web/assets/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.o
+*.a
+*.so.*
+*.dylib
