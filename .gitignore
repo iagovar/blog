@@ -13,4 +13,6 @@ __pycache__/
 *.a
 *.so.*
 *.dylib
-*megatenedores-env/*
+
+# v environments
+megatenedores-env/
