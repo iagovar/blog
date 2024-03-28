@@ -60,7 +60,7 @@ for file in listOfFiles:
 
 # Consolidate type of company (public/private)
 
-finalDf = finalDf.with_columns(pl.col("region").apply(utils.consolidateTypeOfCompany).alias("typeOfCompany"))
+finalDf = finalDf.with_columns(pl.col("Tipo sociedad utilizada").apply(utils.consolidateTypeOfCompany).alias("typeOfCompany"))
 
 
 
