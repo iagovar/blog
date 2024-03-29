@@ -1,4 +1,4 @@
-export default async function initializePivotTable(webPivotTableUrl, tsvUrl) {
+async function initializePivotTable(webPivotTableUrl, tsvUrl) {
     // Create pivot table element
     const pitvotTableElement = document.createElement('web-pivot-table');
     pivotTableElement.style.width = '100%';
