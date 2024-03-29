@@ -5,9 +5,9 @@ async function initializePivotTable(webPivotTableUrl, tsvUrl) {
     pivotTableElement.style.height = '70vh';
 
     // Load script into DOM and wait for 2s (no better solution at the moment)
-    const pitvotTableScript = document.createElement('script');
-    pitvotTableScript.src = webPivotTableUrl;
-    document.body.appendChild(pitvotTableScript);
+    const pivotTableScript = document.createElement('script');
+    pivotTableScript.src = webPivotTableUrl;
+    document.body.appendChild(pivotTableScript);
     await new Promise(resolve => setTimeout(resolve, 2000));
 
     // Load TSV
