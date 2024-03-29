@@ -1,6 +1,6 @@
 async function initializePivotTable(webPivotTableUrl, tsvUrl) {
     // Create pivot table element
-    const pitvotTableElement = document.createElement('web-pivot-table');
+    const pivotTableElement = document.createElement('web-pivot-table');
     pivotTableElement.style.width = '100%';
     pivotTableElement.style.height = '70vh';
 
