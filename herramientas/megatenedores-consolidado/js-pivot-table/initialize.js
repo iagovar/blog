@@ -11,6 +11,6 @@ async function initializePivotTable(webPivotTableUrl, tsvUrl) {
     await new Promise(resolve => setTimeout(resolve, 2000));
 
     // Load TSV
-    pivotTableScript.setWptFromCsvUrl(tsvUrl, "\t");
+    pivotTableElement.setWptFromCsvUrl(tsvUrl, "\t");
  
 }
